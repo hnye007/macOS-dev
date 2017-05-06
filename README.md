@@ -50,6 +50,11 @@
 - [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
 - [Homebrew Cask](https://caskroom.github.io/) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike.
+- [HTTPie](https://httpie.org/) - a command line HTTP client with an intuitive UI
+  - `brew install httpie`
+- [httpstat](https://github.com/reorx/httpstat) - httpstat visualizes `curl(1)` statistics in a way of beauty and clarity.
+  - `brew install httpstat`
+  - Go 版本：`https://github.com/davecheney/httpstat`
 - [MacPorts](https://www.macports.org/) - 包管理工具，类似 apt-get、yum
 - [mycli](http://mycli.net/) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具
   - `brew install mycli`
