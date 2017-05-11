@@ -46,7 +46,7 @@
 
 - [autojump](https://github.com/wting/autojump) - 告别又臭又长的路径名，一键直达任何目录
   - `brew install autojump`
-  - 结合 oh-my-zsh 更好，在 oh-my-zsh 插件中开启 autojump
+  - 结合 oh-my-zsh 更好，在 oh-my-zsh 插件中开启 autojump，之后直接使用`j`命令
 - [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
 - [Homebrew Cask](https://caskroom.github.io/) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike.
@@ -54,14 +54,15 @@
   - `brew install httpie`
 - [httpstat](https://github.com/reorx/httpstat) - httpstat visualizes `curl(1)` statistics in a way of beauty and clarity.
   - `brew install httpstat`
-  - Go 版本：`https://github.com/davecheney/httpstat`
+  - [Go 版本](https://github.com/davecheney/httpstat)
 - [MacPorts](https://www.macports.org/) - 包管理工具，类似 apt-get、yum
 - [mycli](http://mycli.net/) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具
   - `brew install mycli`
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和 **Oh my zsh** 相似，建立在 Fish Shell 框架上
 - [oh-my-zsh](http://ohmyz.sh/) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
-    - plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd)
+    - plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)
+- [Prezto](https://github.com/sorin-ionescu/prezto) - zsh 配置框架，比 oh-my-zsh 轻量
 - [vim](http://www.vim.org/)
   - `brew install vim`
   - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具
