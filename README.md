@@ -21,7 +21,7 @@
 - [Gogland](https://www.jetbrains.com/go/) - the golang IDE
 - [HandShaker](http://www.smartisan.com/apps/handshaker) - Android 手机管理软件，锤子出品
 - [IDEA](https://www.jetbrains.com/idea/) - the Java IDE
-- [IINA](https://lhc70000.github.io/iina/) - 基于 [MPV](https://github.com/mpv-player/mpv) 的，现代视频播放器，支持多点触摸控制
+- [IINA](https://lhc70000.github.io/iina/zh-cn/) - 基于 [MPV](https://github.com/mpv-player/mpv) 的，现代视频播放器，支持多点触摸控制
   - `brew cask install iina`
 - [iStatistica](http://www.imagetasks.com/system-battery-network-monitor-widget/) - 一款高颜值的系统监控工具
 - [iTerm2](https://www.iterm2.com/) - 终端工具
