@@ -27,6 +27,7 @@
 - [iTerm2](https://www.iterm2.com/) - 终端工具
 - [Insomnia](https://insomnia.rest/) - 漂亮的HTTP请求测试工具
 - [JieTu](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品
+- [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
 - [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图
 - [PDF Expert](https://pdfexpert.com/) - PDF 阅读器
