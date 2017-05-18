@@ -48,7 +48,7 @@
 - [autojump](https://github.com/wting/autojump) - 告别又臭又长的路径名，一键直达任何目录
   - `brew install autojump`
   - 结合 oh-my-zsh 更好，在 oh-my-zsh 插件中开启 autojump，之后直接使用`j`命令
-- [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端
+- [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端，不兼容 bash
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
 - [Homebrew Cask](https://caskroom.github.io/) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike.
 - [HTTPie](https://httpie.org/) - a command line HTTP client with an intuitive UI
