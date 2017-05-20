@@ -11,7 +11,7 @@
 - [Android Studio](https://developer.android.google.cn/studio/index.html) - 官方 Android IDE
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Bear](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
-- [Cakebrew](https://www.cakebrew.com/) - [Homebrew](https://brew.sh/) 的客户端软件。摆脱命令方便安装、查看、卸载软件
+- ~~[Cakebrew](https://www.cakebrew.com/)~~ - [Homebrew](https://brew.sh/) 的客户端软件。摆脱命令方便安装、查看、卸载软件
   - `brew cask install cakebrew`
 - [Charles](https://www.charlesproxy.com/) - 代理工具
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 实用的快捷键快速提醒工具
@@ -29,7 +29,7 @@
   - `brew cask install iina`
 - [iStatistica](http://www.imagetasks.com/system-battery-network-monitor-widget/) - 一款高颜值的系统监控工具
 - [iTerm2](https://www.iterm2.com/) - 终端工具
-- [Insomnia](https://insomnia.rest/) - 漂亮的HTTP请求测试工具
+- [Insomnia](https://insomnia.rest/) - 漂亮的 HTTP 请求测试工具
 - [JieTu](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
@@ -56,7 +56,7 @@
 - [autojump](https://github.com/wting/autojump) - 告别又臭又长的路径名，一键直达任何目录
   - `brew install autojump`
   - 结合 oh-my-zsh 更好，在 oh-my-zsh 插件中开启 autojump，之后直接使用`j`命令
-- [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端，不兼容 bash
+- [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端，**不兼容 bash**
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
 - [Homebrew Cask](https://caskroom.github.io/) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike.
 - [HTTPie](https://httpie.org/) - a command line HTTP client with an intuitive UI
@@ -64,10 +64,10 @@
 - [httpstat](https://github.com/reorx/httpstat) - httpstat visualizes `curl(1)` statistics in a way of beauty and clarity.
   - `brew install httpstat`
   - [Go 版本](https://github.com/davecheney/httpstat)
-- [MacPorts](https://www.macports.org/) - 包管理工具，类似 apt-get、yum
+- ~~[MacPorts](https://www.macports.org/)~~ - 包管理工具，类似 apt-get、yum（用 Homebrew 吧）
 - [mycli](http://mycli.net/) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具
   - `brew install mycli`
-- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和 **Oh my zsh** 相似，建立在 Fish Shell 框架上
+- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和 oh my zsh 相似，建立在 Fish Shell 框架上
 - [oh-my-zsh](http://ohmyz.sh/) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
     - plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)
