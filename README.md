@@ -1,11 +1,12 @@
 #macOS-dev
 
-## 目录
+## Contents
 
-- [应用程序](#应用程序)
-- [命令行工具](#命令行工具)
+- [Applications](#Applications)
+- [command-tools](#command-tools)
+- [Tips](#Tips)
 
-## 应用程序
+## Applications
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器
 - [Android Studio](https://developer.android.google.cn/studio/index.html) - 官方 Android IDE
@@ -30,6 +31,7 @@
 - [iStatistica](http://www.imagetasks.com/system-battery-network-monitor-widget/) - 一款高颜值的系统监控工具
 - [iTerm2](https://www.iterm2.com/) - 终端工具
 - [Insomnia](https://insomnia.rest/) - 漂亮的 HTTP 请求测试工具
+  - `brew cask install insomnia`
 - [JieTu](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
@@ -51,7 +53,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
 - [迅雷](http://www.xunlei.com/) - 下载软件
 
-## 命令行工具
+## command-tools
 
 - [autojump](https://github.com/wting/autojump) - 告别又臭又长的路径名，一键直达任何目录
   - `brew install autojump`
@@ -81,3 +83,12 @@
   - [Neovim](https://neovim.io/) - 提高Vim可扩张灵活性
   - [Spacevim](https://github.com/ctjhoa/spacevim) - 模仿Spacemacs的使用方式
   - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目
+
+## Tips
+
+1. 解决国内访问 s3.amazonaws.com 下载文件非常缓慢的问题
+
+   ~~~shell
+   219.76.4.4    github-cloud.s3.amazonaws.com
+   ~~~
+
