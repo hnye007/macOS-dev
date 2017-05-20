@@ -8,6 +8,7 @@
 ## 应用程序
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器
+- [Android Studio](https://developer.android.google.cn/studio/index.html) - 官方 Android IDE
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Bear](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
 - [Cakebrew](https://www.cakebrew.com/) - [Homebrew](https://brew.sh/) 的客户端软件。摆脱命令方便安装、查看、卸载软件
@@ -17,6 +18,7 @@
 - [Copia](http://www.dollaropath.com/copia/) - 剪切板工具
 - [Dash](https://kapeli.com/dash) - API 离线文档软件
 - [DataGrip](https://www.jetbrains.com/datagrip/) - jetbrains 旗下数据库管理工具
+- [Evernote](https://www.yinxiang.com/) - 印象笔记
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [Gogland](https://www.jetbrains.com/go/) - the golang IDE
 - [HandShaker](http://www.smartisan.com/apps/handshaker) - Android 手机管理软件，锤子出品
@@ -30,6 +32,9 @@
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
 - [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
+- [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
+- [欧路辞典](https://dict.eudic.net/)
 - [PDF Expert](https://pdfexpert.com/) - PDF 阅读器
 - [PyCharm](https://www.jetbrains.com/pycharm/) - the Python IDE
 - [Sequel Pro](http://www.sequelpro.com/) - MySQL 数据库管理软件
