@@ -66,22 +66,23 @@
 - [httpstat](https://github.com/reorx/httpstat) - httpstat visualizes `curl(1)` statistics in a way of beauty and clarity.
   - `brew install httpstat`
   - [Go 版本](https://github.com/davecheney/httpstat)
-- ~~[MacPorts](https://www.macports.org/)~~ - 包管理工具，类似 apt-get、yum（用 Homebrew 吧）
 - [mycli](http://mycli.net/) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具
   - `brew install mycli`
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和 oh my zsh 相似，建立在 Fish Shell 框架上
 - [oh-my-zsh](http://ohmyz.sh/) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
-    - plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)
+    - `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
 - [Prezto](https://github.com/sorin-ionescu/prezto) - zsh 配置框架，比 oh-my-zsh 轻量
+  > 可能还是 oh-my-zsh 的 git 插件好用。
+  > 当然了，是可以在 Prezto 中使用 oh-my-zsh 的 git 插件的。
 - [vim](http://www.vim.org/)
   - `brew install vim`
-  - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具
-  - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器
-  - [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim
-  - [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim
-  - [Neovim](https://neovim.io/) - 提高Vim可扩张灵活性
-  - [Spacevim](https://github.com/ctjhoa/spacevim) - 模仿Spacemacs的使用方式
+  - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim 插件管理工具
+  - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的 vim 插件管理器
+  - [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发 JavaScript 和 Web 的 vim
+  - [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的 vim
+  - [Neovim](https://neovim.io/) - 提高 Vim 可扩张灵活性
+  - [Spacevim](https://github.com/ctjhoa/spacevim) - 模仿 Spacemacs 的使用方式
   - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目
 
 ## Tips
