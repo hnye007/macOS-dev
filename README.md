@@ -18,6 +18,8 @@
 - [Copia](http://www.dollaropath.com/copia/) - 剪切板工具
 - [Dash](https://kapeli.com/dash) - API 离线文档软件
 - [DataGrip](https://www.jetbrains.com/datagrip/) - jetbrains 旗下数据库管理工具
+- [Dr. Cleaner](https://itunes.apple.com/us/app/dr.-cleaner-clean-disk-memory/id921458519?mt=12) - 清理软件
+- [Dr. Unarchiver](https://itunes.apple.com/us/app/dr-unarchiver-rar-and-zip-archive-browser/id1127253508?mt=12) - 解压软件
 - [Evernote](https://www.yinxiang.com/) - 印象笔记
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [Gogland](https://www.jetbrains.com/go/) - the golang IDE
@@ -36,6 +38,7 @@
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
 - [欧路辞典](https://dict.eudic.net/)
 - [PDF Expert](https://pdfexpert.com/) - PDF 阅读器
+- [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
 - [PyCharm](https://www.jetbrains.com/pycharm/) - the Python IDE
 - [Sequel Pro](http://www.sequelpro.com/) - MySQL 数据库管理软件
 - [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙
