@@ -42,6 +42,7 @@
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
 - [欧路辞典](https://dict.eudic.net/)
 - [PDF Expert](https://pdfexpert.com/) - PDF 阅读器
+- [PicU](https://github.com/chenxtdo/UPImageMacApp) - PicU is a tool for Mac, that can easily upload picture to QNServer and save a markdown link in the clipboard.
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
 - [PyCharm](https://www.jetbrains.com/pycharm/) - the Python IDE
 - [Sequel Pro](http://www.sequelpro.com/) - MySQL 数据库管理软件
