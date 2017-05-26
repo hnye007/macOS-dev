@@ -9,6 +9,7 @@
 ## Applications
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器
+  - [Features]-[Web Search] 可添加自定义搜索
 - [Android Studio](https://developer.android.google.cn/studio/index.html) - 官方 Android IDE
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Bear](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
@@ -32,6 +33,7 @@
 - [iPic](https://toolinbox.net/iPic/) - 有了图床神器 iPic，不论屏幕截图、还是复制图片，都可以自动上传、保存 Markdown 格式的链接，直接粘贴插入，够懒人吧？
 - [iStatistica](http://www.imagetasks.com/system-battery-network-monitor-widget/) - 一款高颜值的系统监控工具
 - [iTerm2](https://www.iterm2.com/) - 终端工具
+  - [Iterm2-color-schemes](http://iterm2colorschemes.com/)
 - [Insomnia](https://insomnia.rest/) - 漂亮的 HTTP 请求测试工具
   - `brew cask install insomnia`
 - [JieTu](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品
@@ -54,6 +56,9 @@
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - 解压缩软件
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
+  - 终端下使用`code`命令
+    > 运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
+
 - [迅雷](http://www.xunlei.com/) - 下载软件
 
 ## command-tools
@@ -90,7 +95,6 @@
 ## Tips
 
 1. 解决国内访问 s3.amazonaws.com 下载文件非常缓慢的问题
-
    ~~~shell
    219.76.4.4    github-cloud.s3.amazonaws.com
    ~~~
