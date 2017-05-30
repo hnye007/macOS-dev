@@ -1,4 +1,4 @@
-#macOS-dev
+# macOS-dev
 
 ## Contents
 
@@ -85,13 +85,15 @@
   - 区别（暂无，还没开工）
 - [vim](http://www.vim.org/)
   - `brew install vim`
-  - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim 插件管理工具
-  - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的 vim 插件管理器
-  - [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发 JavaScript 和 Web 的 vim
-  - [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的 vim
-  - [Neovim](https://neovim.io/) - 提高 Vim 可扩张灵活性
-  - [Spacevim](https://github.com/ctjhoa/spacevim) - 模仿 Spacemacs 的使用方式
-  - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目
+  - [.vimrc 文件](./config/.vimrc) - 简单的配置
+  - other
+    - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim 插件管理工具
+    - [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的 vim 插件管理器
+    - [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发 JavaScript 和 Web 的 vim
+    - [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的 vim
+    - [Neovim](https://neovim.io/) - 提高 Vim 可扩张灵活性
+    - [Spacevim](https://github.com/ctjhoa/spacevim) - 模仿 Spacemacs 的使用方式
+    - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目
 - [z](https://github.com/rupa/z) - jump around，类似 autojump
   - `brew install z`
 
