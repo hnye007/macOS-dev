@@ -24,9 +24,9 @@ set cursorline "高亮显示当前行
 set hlsearch "高亮显示搜索结果
 set backspace=2 "回退键生效
 
-" 设置制表符
+"let mapleader="'"
+
 set expandtab " 将制表符扩展为空格
 set tabstop=4 " 制表符占用空格数
 set shiftwidth=4 " 设置格式化时制表符占用空格数
 set softtabstop=4 " 让 vim 把连续数量的空格视为一个制表符
-
