@@ -81,6 +81,8 @@
     - `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
 - [Prezto](https://github.com/sorin-ionescu/prezto) - zsh 配置框架，比 oh-my-zsh 轻量
   > 可能还是 oh-my-zsh 的 git 插件的别名舒服，用的人也多。目前，我是使用 git 插件去除 alias 部分，然后再使用 oh-my-zsh 的 git 的 alias。
+- [Prezto-custom](https://github.com/hnye007/prezto) - 个人定制
+  - 区别（暂无，还没开工）
 - [vim](http://www.vim.org/)
   - `brew install vim`
   - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim 插件管理工具
