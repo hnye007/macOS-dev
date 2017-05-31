@@ -9,7 +9,11 @@
 ## Applications
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器
-  - [Features]-[Web Search] 可添加自定义搜索
+  - Features
+    - Web Search
+  - Workflows
+    - [Workflows List](http://www.alfredworkflow.com/ "@hzlzh")
+    - [Chrome Bookmarks](http://www.packal.org/workflow/chrome-bookmarks-0)
 - [Android Studio](https://developer.android.google.cn/studio/index.html) - 官方 Android IDE
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Bear](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
