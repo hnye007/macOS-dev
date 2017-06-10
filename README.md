@@ -3,7 +3,7 @@
 ## Contents
 
 - [Applications](#Applications)
-- [command-tools](#command-tools)
+- [Command-Tools](#Command-Tools)
 - [Tips](#Tips)
 
 ## Applications
@@ -12,7 +12,7 @@
   - Features
     - Web Search
   - Workflows
-    - [Workflows List](http://www.alfredworkflow.com/ "@hzlzh")
+    - [Workflows List](http://www.alfredworkflow.com/ "第三方工作流下载网站 @hzlzh")
     - [Chrome Bookmarks](http://www.packal.org/workflow/chrome-bookmarks-0)
 - [Android Studio](https://developer.android.google.cn/studio/index.html) - 官方 Android IDE
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
@@ -30,17 +30,19 @@
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [Gogland](https://www.jetbrains.com/go/) - the golang IDE
 - [HandShaker](http://www.smartisan.com/apps/handshaker) - Android 手机管理软件，锤子出品
+- [HyperSwitch](https://bahoom.com/hyperswitch) - 窗口切换器
 - [IDEA](https://www.jetbrains.com/idea/) - the Java IDE
 - [iHosts](https://toolinbox.net/iHosts/) - /etc/hosts 编辑神器
 - [IINA](https://lhc70000.github.io/iina/zh-cn/) - 基于 [MPV](https://github.com/mpv-player/mpv) 的，现代视频播放器，支持多点触摸控制
   - `brew cask install iina`
-- [iPic](https://toolinbox.net/iPic/) - 有了图床神器 iPic，不论屏幕截图、还是复制图片，都可以自动上传、保存 Markdown 格式的链接，直接粘贴插入，够懒人吧？
+- [iPic](https://toolinbox.net/iPic/) - 有了图床神器 iPic，不论屏幕截图、还是复制图片，都可以自动上传、保存 Markdown 格式的链接，直接粘贴插入
 - [iStatistica](http://www.imagetasks.com/system-battery-network-monitor-widget/) - 一款高颜值的系统监控工具
 - [iTerm2](https://www.iterm2.com/) - 终端工具
   - [Iterm2-color-schemes](http://iterm2colorschemes.com/)
 - [Insomnia](https://insomnia.rest/) - 漂亮的 HTTP 请求测试工具
   - `brew cask install insomnia`
 - [JieTu](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品
+- [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - 启动器，类似 Alfred
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
 - [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图
@@ -64,7 +66,7 @@
     > 运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
 - [迅雷](http://www.xunlei.com/) - 下载软件
 
-## command-tools
+## Command-Tools
 
 - [autojump](https://github.com/wting/autojump) - 告别又臭又长的路径名，一键直达任何目录
   - `brew install autojump`
