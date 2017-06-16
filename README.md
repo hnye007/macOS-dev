@@ -26,7 +26,7 @@
 - [DataGrip](https://www.jetbrains.com/datagrip/) - jetbrains 旗下数据库管理工具
 - [Dr. Cleaner](https://itunes.apple.com/us/app/dr.-cleaner-clean-disk-memory/id921458519?mt=12) - 清理软件
 - [Dr. Unarchiver](https://itunes.apple.com/us/app/dr-unarchiver-rar-and-zip-archive-browser/id1127253508?mt=12) - 解压软件
-- [Evernote](https://www.yinxiang.com/) - 印象笔记
+- [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [Gogland](https://www.jetbrains.com/go/) - the golang IDE
 - [HandShaker](http://www.smartisan.com/apps/handshaker) - Android 手机管理软件，锤子出品
@@ -41,6 +41,7 @@
   - [Iterm2-color-schemes](http://iterm2colorschemes.com/)
 - [Insomnia](https://insomnia.rest/) - 漂亮的 HTTP 请求测试工具
   - `brew cask install insomnia`
+- [坚果云](https://www.jianguoyun.com/ "官网") - 文件同步、备份、共享云存储软件
 - [JieTu](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - 启动器，类似 Alfred
 - [Manico](https://manico.im/) - 快速 App 切换器
