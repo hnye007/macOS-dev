@@ -24,8 +24,9 @@
 - [Copia](http://www.dollaropath.com/copia/) - 剪切板工具
 - [Dash](https://kapeli.com/dash) - API 离线文档软件
 - [DataGrip](https://www.jetbrains.com/datagrip/) - jetbrains 旗下数据库管理工具
-- [Dr. Cleaner](https://itunes.apple.com/us/app/dr.-cleaner-clean-disk-memory/id921458519?mt=12) - 清理软件
-- [Dr. Unarchiver](https://itunes.apple.com/us/app/dr-unarchiver-rar-and-zip-archive-browser/id1127253508?mt=12) - 解压软件
+- [Dr. Cleaner](https://itunes.apple.com/us/app/dr.-cleaner-clean-disk-memory/id921458519?mt=12 "Mac App Store") - 清理软件
+- [Dr. Unarchiver 全能解压](https://itunes.apple.com/us/app/dr-unarchiver-rar-and-zip-archive-browser/id1127253508?mt=12 "Mac App Store") - 解压软件
+- [Eudic 欧路辞典](https://dict.eudic.net/ "官网")
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [Gogland](https://www.jetbrains.com/go/) - the golang IDE
@@ -49,7 +50,6 @@
 - [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
-- [欧路辞典](https://dict.eudic.net/)
 - [PDF Expert](https://pdfexpert.com/) - PDF 阅读器
 - [PicU](https://github.com/chenxtdo/UPImageMacApp) - PicU is a tool for Mac, that can easily upload picture to QNServer and save a markdown link in the clipboard.
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
@@ -60,12 +60,13 @@
 - [SourceTree](https://www.sourcetreeapp.com/) - Git 跨平台客户端
 - [Spark](https://sparkmailapp.com/) - 邮件客户端
 - [StarUML](http://staruml.io/) - 软件建模软件
-- [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - 解压缩软件
+- ~~[The Unarchiver](http://unarchiver.c3.cx/unarchiver)~~ - 解压缩软件
+- [Thunder 迅雷](http://mac.xunlei.com/ "官网")
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
+- [Vanilla](http://matthewpalmer.net/vanilla/) - 精简 Mac 菜单栏应用图标，小巧轻量还免费
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令
     > 运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
-- [迅雷](http://www.xunlei.com/) - 下载软件
 
 ## Command-Tools
 
