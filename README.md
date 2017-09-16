@@ -4,6 +4,7 @@
 
 - [Applications](#Applications)
 - [Command-Tools](#Command-Tools)
+- [Browser-Plugins](#Browser-Plugins)
 - [Tips](#Tips)
 
 ## Applications
@@ -67,6 +68,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令
     > 运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
+- [邮箱大师]
 
 ## Command-Tools
 
@@ -104,6 +106,11 @@
     - [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目
 - [z](https://github.com/rupa/z) - jump around，类似 autojump
   - `brew install z`
+
+## Browser-Plugins
+
+- [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。
+   - [用户脚本网站](https://greasyfork.org/zh-CN)
 
 ## Tips
 
