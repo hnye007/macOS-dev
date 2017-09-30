@@ -41,11 +41,11 @@
 - [iStatistica](http://www.imagetasks.com/system-battery-network-monitor-widget/) - 一款高颜值的系统监控工具
 - [iTerm2](https://www.iterm2.com/) - 终端工具
   - [Iterm2-color-schemes](http://iterm2colorschemes.com/)
-- [Insomnia](https://insomnia.rest/) - 漂亮的 HTTP 请求测试工具
+- ~~[Insomnia](https://insomnia.rest/)~~ - 漂亮的 HTTP 请求测试工具
   - `brew cask install insomnia`
 - [坚果云](https://www.jianguoyun.com/ "官网") - 文件同步、备份、共享云存储软件
 - [JieTu](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品
-- [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - 启动器，类似 Alfred
+- ~~[LaunchBar](https://www.obdev.at/products/launchbar/index.html)~~ - 启动器，类似 Alfred
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
 - [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图
@@ -54,12 +54,12 @@
 - [PDF Expert](https://pdfexpert.com/) - PDF 阅读器
 - [PicU](https://github.com/chenxtdo/UPImageMacApp) - PicU is a tool for Mac, that can easily upload picture to QNServer and save a markdown link in the clipboard.
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
+- [Postman](https://www.getpostman.com/) - The Complete API Development Environment
 - [PyCharm](https://www.jetbrains.com/pycharm/) - the Python IDE
 - [Sequel Pro](http://www.sequelpro.com/) - MySQL 数据库管理软件
 - [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件
 - [SourceTree](https://www.sourcetreeapp.com/) - Git 跨平台客户端
-- [Spark](https://sparkmailapp.com/) - 邮件客户端
 - [StarUML](http://staruml.io/) - 软件建模软件
 - ~~[The Unarchiver](http://unarchiver.c3.cx/unarchiver)~~ - 解压缩软件
 - [Thunder 迅雷](http://mac.xunlei.com/ "官网")
@@ -68,14 +68,15 @@
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令
     > 运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
-- [邮箱大师]
+- [网易邮箱大师](https://mail.163.com/dashi/ "官网，也可到 Mac App Store 下载")
 
 ## Command-Tools
 
-- [autojump](https://github.com/wting/autojump) - 告别又臭又长的路径名，一键直达任何目录
+- ~~[autojump](https://github.com/wting/autojump)~~ - 告别又臭又长的路径名，一键直达任何目录
   - `brew install autojump`
   - 结合 oh-my-zsh 更好，在 oh-my-zsh 插件中开启 autojump，之后直接使用`j`命令
-- [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端，**不兼容 bash**
+- [commitizen](https://www.npmjs.com/package/commitizen) - 使用 AngularJS 的 Git Commit 规范的命令工具
+- ~~[Fish Shell](https://fishshell.com/)~~ - 智能且用户友好的命令行终端，**不兼容 bash**
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
 - [Homebrew Cask](https://caskroom.github.io/) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike.
 - [HTTPie](https://httpie.org/) - a command line HTTP client with an intuitive UI
@@ -85,7 +86,7 @@
   - [Go 版本](https://github.com/davecheney/httpstat)
 - [mycli](http://mycli.net/) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具
   - `brew install mycli`
-- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和 oh my zsh 相似，建立在 Fish Shell 框架上
+- ~~[oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)~~ - 和 oh my zsh 相似，建立在 Fish Shell 框架上
 - [oh-my-zsh](http://ohmyz.sh/) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
     - `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
