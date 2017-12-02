@@ -63,7 +63,9 @@
 - [StarUML](http://staruml.io/) - 软件建模软件
 - ~~[The Unarchiver](http://unarchiver.c3.cx/unarchiver)~~ - 解压缩软件
 - [Thunder 迅雷](http://mac.xunlei.com/ "官网")
+- [Timing](https://timingapp.com/) - Time Tracking Sucks
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
+- [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
 - [Vanilla](http://matthewpalmer.net/vanilla/) - 精简 Mac 菜单栏应用图标，小巧轻量还免费
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令
