@@ -3,7 +3,7 @@
 ## Contents
 
 - [Applications](#Applications)
-- [Command-Tools](#Command-Tools)
+- [Command-Line-Tools](#Command-Line-Tools)
 - [Browser-Plugins](#Browser-Plugins)
 - [Tips](#Tips)
 
@@ -73,7 +73,7 @@
 - [网易邮箱大师](https://mail.163.com/dashi/ "官网，也可到 Mac App Store 下载")
 - [XMind](https://www.xmind.cn/) - 思维导图
 
-## Command-Tools
+## Command-Line-Tools
 
 - ~~[autojump](https://github.com/wting/autojump)~~ - 告别又臭又长的路径名，一键直达任何目录
   - `brew install autojump`
