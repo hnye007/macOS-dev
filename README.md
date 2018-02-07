@@ -29,6 +29,7 @@
 - [Dr. Unarchiver 全能解压](https://itunes.apple.com/us/app/dr-unarchiver-rar-and-zip-archive-browser/id1127253508?mt=12 "Mac App Store") - 解压软件
 - [Eudic 欧路辞典](https://dict.eudic.net/ "官网")
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
+- [Folx](https://mac.eltima.com/download-manager.html "官网") - Folx is a free download manager for Mac OS X
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [Gogland](https://www.jetbrains.com/go/) - the golang IDE
 - [HandShaker](http://www.smartisan.com/apps/handshaker) - Android 手机管理软件，锤子出品
@@ -61,8 +62,7 @@
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件
 - [SourceTree](https://www.sourcetreeapp.com/) - Git 跨平台客户端
 - [StarUML](http://staruml.io/) - 软件建模软件
-- ~~[The Unarchiver](http://unarchiver.c3.cx/unarchiver)~~ - 解压缩软件
-- [Thunder 迅雷](http://mac.xunlei.com/ "官网")
+- [The Unarchiver](https://theunarchiver.com/) - 解压缩软件
 - [Timing](https://timingapp.com/) - Time Tracking Sucks
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
