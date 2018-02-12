@@ -46,6 +46,8 @@
   - `brew cask install insomnia`
 - [坚果云](https://www.jianguoyun.com/ "官网") - 文件同步、备份、共享云存储软件
 - [JieTu](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品
+- [Kantu](http://kantu.qq.com/) - 看图（Kantu）是腾讯在 macOS 平台出品的优质看图工具，轻轻松松从万张照片中找到你想要的。
+- [Kap](https://getkap.co/) - Capture your screen
 - ~~[LaunchBar](https://www.obdev.at/products/launchbar/index.html)~~ - 启动器，类似 Alfred
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
@@ -57,11 +59,13 @@
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
 - [Postman](https://www.getpostman.com/) - The Complete API Development Environment
 - [PyCharm](https://www.jetbrains.com/pycharm/) - the Python IDE
+- [RememBear](https://www.remembear.com/ "官网") - Secure and remember all your passwords… with a Bear
 - [Sequel Pro](http://www.sequelpro.com/) - MySQL 数据库管理软件
 - [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件
 - [SourceTree](https://www.sourcetreeapp.com/) - Git 跨平台客户端
 - [StarUML](http://staruml.io/) - 软件建模软件
+- [Sublime Text](https://www.sublimetext.com/ "官网") - A sophisticated text editor for code, markup and prose
 - [The Unarchiver](https://theunarchiver.com/) - 解压缩软件
 - [Timing](https://timingapp.com/) - Time Tracking Sucks
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
@@ -94,6 +98,7 @@
 - [Prezto](https://github.com/sorin-ionescu/prezto) - zsh 配置框架，比 oh-my-zsh 轻量
   > 可能还是 oh-my-zsh 的 git 插件的别名舒服，用的人也多。目前，我是使用 git 插件去除 alias 部分，然后再使用 oh-my-zsh 的 git 的 alias。
 - [Prezto-custom](https://github.com/hnye007/prezto) - 个人定制
+- [unar](https://theunarchiver.com/command-line) - 解压缩命令行工具
 - [vim](http://www.vim.org/)
   - `brew install vim`
   - [.vimrc 文件](./config/.vimrc) - 简单的配置
@@ -105,10 +110,9 @@
 ## Browser-Plugins
 
 - [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。
-   - [用户脚本网站](https://greasyfork.org/zh-CN)
+  - [用户脚本网站](https://greasyfork.org/zh-CN)
 
 ## Tips
-
 
 1. 解决国内访问 s3.amazonaws.com 下载文件非常缓慢的问题
    ~~~shell
