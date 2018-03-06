@@ -37,9 +37,10 @@
 - [HyperSwitch](https://bahoom.com/hyperswitch) - 窗口切换器
 - [IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic IDE For JVM
 - [iHosts](https://toolinbox.net/iHosts/) - /etc/hosts 编辑神器
-- [IINA](https://lhc70000.github.io/iina/zh-cn/) - 基于 [MPV](https://github.com/mpv-player/mpv) 的，现代视频播放器，支持多点触摸控制
+- [IINA](https://lhc70000.github.io/iina/zh-cn/) - macOS 视频播放器
   - `brew cask install iina`
-- [iPic](https://toolinbox.net/iPic/) - 有了图床神器 iPic，不论屏幕截图、还是复制图片，都可以自动上传、保存 Markdown 格式的链接，直接粘贴插入
+- [iPic](https://toolinbox.net/iPic/) - 图床神器
+- [iText](https://toolinbox.net/iText/) - OCR 截图识字
 - [iStatistica](http://www.imagetasks.com/system-battery-network-monitor-widget/) - 一款高颜值的系统监控工具
 - [iTerm2](https://www.iterm2.com/) - 终端工具
   - [Iterm2-color-schemes](http://iterm2colorschemes.com/)
@@ -70,6 +71,7 @@
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
 - [Vanilla](http://matthewpalmer.net/vanilla/) - 精简 Mac 菜单栏应用图标，小巧轻量还免费
+- [VEEER](https://veeer.io/) - 免费轻量级的 macOS 窗口管理工具
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令
     > 运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
