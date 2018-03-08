@@ -15,6 +15,7 @@
   - Workflows
     - [Workflows List](http://www.alfredworkflow.com/ "第三方工作流下载网站 @hzlzh")
     - [Chrome Bookmarks](http://www.packal.org/workflow/chrome-bookmarks-0)
+- [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?mt=12) - 防休眠软件
 - [Android Studio](https://developer.android.google.cn/studio/index.html) - 官方 Android IDE
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Bear](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
@@ -49,6 +50,7 @@
 - [Kantu](http://kantu.qq.com/) - 看图（Kantu）是腾讯在 macOS 平台出品的优质看图工具，轻轻松松从万张照片中找到你想要的。
 - [Kap](https://getkap.co/) - Capture your screen
 - ~~[LaunchBar](https://www.obdev.at/products/launchbar/index.html)~~ - 启动器，类似 Alfred
+- [Keka](http://www.kekaosx.com/en/) - 解压缩工具
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
 - [MindNode](https://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图
@@ -100,6 +102,7 @@
 - [Prezto](https://github.com/sorin-ionescu/prezto) - zsh 配置框架，比 oh-my-zsh 轻量
 - [Prezto-custom](https://github.com/hnye007/prezto)
 - [unar](https://theunarchiver.com/command-line) - 解压缩命令行工具
+  - `brew install unar`
 - [vim](http://www.vim.org/)
   - `brew install vim`
   - [.vimrc 文件](./config/.vimrc) - 简单的配置
