@@ -23,7 +23,6 @@
   - `brew cask install cakebrew`
 - [Charles](https://www.charlesproxy.com/) - 代理工具
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 实用的快捷键快速提醒工具
-- ~~[Copia](http://www.dollaropath.com/copia/)~~ - 剪切板工具
 - [Dash](https://kapeli.com/dash) - API 离线文档软件
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool
 - [Dr. Cleaner](https://www.drcleaner.com/zh-hans/dr-cleaner/) - 清理软件
@@ -50,10 +49,9 @@
 - [Kantu](http://kantu.qq.com/) - 看图（Kantu）是腾讯在 macOS 平台出品的优质看图工具，轻轻松松从万张照片中找到你想要的。
 - [Kap](https://getkap.co/) - Capture your screen
 - ~~[LaunchBar](https://www.obdev.at/products/launchbar/index.html)~~ - 启动器，类似 Alfred
-- [Keka](http://www.kekaosx.com/en/) - 解压缩工具
+- [Keka](http://www.kekaosx.com/en/) - Keka is a free file archiver for macOS
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
-- [MindNode](https://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
 - [PDF Expert](https://pdfexpert.com/zh) - Fast, robust and beautiful PDF editor
@@ -80,6 +78,7 @@
 - [网易邮箱大师](https://mail.163.com/dashi/ "官网，也可到 Mac App Store 下载")
 - [微云](https://www.weiyun.com/) - 腾讯微云，云盘。
 - [XMind](https://www.xmind.cn/) - 思维导图
+- [XX-Net](https://github.com/XX-net/XX-Net) - 易用的科学上网工具
 
 ## Command-Line-Tools
 
