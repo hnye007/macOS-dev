@@ -56,6 +56,7 @@
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
 - [Paste](https://itunes.apple.com/cn/app/paste-smart-clipboard-history/id967805235?mt=12) - Paste is a smart clipboard and snippets manager
 - [PDF Expert](https://pdfexpert.com/zh) - Fast, robust and beautiful PDF editor
+- [PicGo](https://molunerfinn.com/PicGo/) - 开源图床工具
 - [PicU](https://github.com/chenxtdo/UPImageMacApp) - PicU is a tool for Mac, that can easily upload picture to QNServer and save a markdown link in the clipboard.
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
 - [Postman](https://www.getpostman.com/) - The Complete API Development Environment
