@@ -44,8 +44,10 @@
 - [iStatistica](http://www.imagetasks.com/system-battery-network-monitor-widget/) - 一款高颜值的系统监控工具
 - [iTerm2](https://www.iterm2.com/) - 终端工具
   - [Iterm2-color-schemes](http://iterm2colorschemes.com/)
+- [Infinity Dashboard](https://fiplab.com/apps/infinity-dashboard-for-mac) - Mac 菜单栏工具
 - [坚果云](https://www.jianguoyun.com/ "官网") - 文件同步、备份、共享云存储软件
 - [Jietu](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品
+- [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - Java 性能分析软件
 - [Kantu](http://kantu.qq.com/) - 看图（Kantu）是腾讯在 macOS 平台出品的优质看图工具，轻轻松松从万张照片中找到你想要的。
 - [Kap](https://getkap.co/) - Capture your screen
 - ~~[LaunchBar](https://www.obdev.at/products/launchbar/index.html)~~ - 启动器，类似 Alfred
