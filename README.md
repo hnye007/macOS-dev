@@ -16,7 +16,6 @@
     - [Workflows List](http://www.alfredworkflow.com/ "第三方工作流下载网站 @hzlzh")
     - [Chrome Bookmarks](http://www.packal.org/workflow/chrome-bookmarks-0)
 - [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?mt=12) - 防休眠软件
-- [Android Studio](https://developer.android.google.cn/studio/index.html) - 官方 Android IDE
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Bear](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
 - [Cakebrew](https://www.cakebrew.com/) - [Homebrew](https://brew.sh/) 的客户端软件。摆脱命令方便安装、查看、卸载软件
@@ -115,6 +114,7 @@
 ## Browser-Plugins
 
 - [algolia](https://github.algolia.com/) - A browser extension enhancing GitHub's search bar with autocomplete
+- [ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm)
 - [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。
   - [用户脚本网站](https://greasyfork.org/zh-CN)
 
