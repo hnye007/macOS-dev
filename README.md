@@ -49,7 +49,7 @@
 - [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - Java 性能分析软件
 - [Kantu](http://kantu.qq.com/) - 看图（Kantu）是腾讯在 macOS 平台出品的优质看图工具，轻轻松松从万张照片中找到你想要的。
 - [Kap](https://getkap.co/) - Capture your screen
-- ~~[LaunchBar](https://www.obdev.at/products/launchbar/index.html)~~ - 启动器，类似 Alfred
+- [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for macOS.
 - [Keka](http://www.kekaosx.com/en/) - Keka is a free file archiver for macOS
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
@@ -114,8 +114,8 @@
 ## Browser-Plugins
 
 - [algolia](https://github.algolia.com/) - A browser extension enhancing GitHub's search bar with autocomplete
-- [ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm)
-- [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。
+- [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
+- [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器。
   - [用户脚本网站](https://greasyfork.org/zh-CN)
 
 ## Tips
