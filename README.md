@@ -28,6 +28,7 @@
 - [Dr. Unarchiver 全能解压](https://www.drcleaner.com/zh-hans/dr-unarchiver/) - 文件归档实用工具
 - [Eudic 欧路辞典](https://dict.eudic.net/ "官网")
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
+- [fizzysoft](http://fizzysoft.net/) - 二进制文件编辑器
 - [Folx](https://mac.eltima.com/download-manager.html "官网") - Folx is a free download manager for Mac OS X
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE
@@ -51,6 +52,7 @@
 - [Kap](https://getkap.co/) - Capture your screen
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for macOS.
 - [Keka](http://www.kekaosx.com/en/) - Keka is a free file archiver for macOS
+- [Magnet](http://magnet.crowdcafe.com/) - Window manager for Mac
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - 漂亮的 Redis 管理软件
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
