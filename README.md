@@ -59,6 +59,7 @@
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
 - [Postman](https://www.getpostman.com/) - The Complete API Development Environment
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE for Professional Developers
+- [Recents](http://recentsapp.com/) - Recents is a file launcher designed for Mac.
 - [RememBear](https://www.remembear.com/) - Secure and remember all your passwords… with a Bear
 - [Sequel Pro](http://www.sequelpro.com/) - MySQL 数据库管理软件
 - [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙
@@ -68,6 +69,7 @@
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
 - [Timing](https://timingapp.com/) - Time Tracking Sucks
+- [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - 一款专注于管理系统设置的免费应用
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
 - [Vanilla](http://matthewpalmer.net/vanilla/) - 精简 Mac 菜单栏应用图标，小巧轻量还免费
