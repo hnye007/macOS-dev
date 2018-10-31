@@ -118,7 +118,4 @@
 
 ## Tips
 
-1. 解决国内访问 s3.amazonaws.com 下载文件非常缓慢的问题
-   ~~~shell
-   219.76.4.4    github-cloud.s3.amazonaws.com
-   ~~~
+1. 
