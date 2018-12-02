@@ -61,6 +61,7 @@
 - [Postman](https://www.getpostman.com/) - The Complete API Development Environment
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE for Professional Developers
 - [Recents](http://recentsapp.com/) - Recents is a file launcher designed for Mac.
+  > 可结合 Alfred
 - [RememBear](https://www.remembear.com/) - Secure and remember all your passwords… with a Bear
 - [Sequel Pro](http://www.sequelpro.com/) - MySQL 数据库管理软件
 - [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙
