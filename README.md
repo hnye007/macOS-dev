@@ -31,6 +31,7 @@
 - [Folx](https://mac.eltima.com/download-manager.html "官网") - 免费下载管理工具
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE
+- [HexFiend](https://github.com/ridiculousfish/HexFiend/) - A fast and clever hex editor for Mac OS
 - [HyperDock](https://bahoom.com/hyperdock) - HyperDock adds long awaited features to your Dock
 - [HyperSwitch](https://bahoom.com/hyperswitch) - 窗口切换器
 - [IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic IDE For JVM
@@ -69,6 +70,7 @@
 - [SourceTree](https://www.sourcetreeapp.com/) - Simplicity and power in a beautiful Git GUI
 - [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [Tencent Lemon](https://mac.gj.qq.com) - 腾讯柠檬清理，极致清理· 全新体验。
 - [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
 - [Timing](https://timingapp.com/) - Time Tracking Sucks
