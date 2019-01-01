@@ -24,7 +24,6 @@
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 实用的快捷键快速提醒工具
 - [Dash](https://kapeli.com/dash) - API 离线文档软件
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool
-- [Dr. Cleaner](https://www.drcleaner.com/zh-hans/dr-cleaner/) - 清理软件
 - [Eudic 欧路辞典](https://dict.eudic.net/ "官网")
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
 - [fantastical](https://flexibits.com/fantastical) - 收费日历应用
@@ -36,8 +35,7 @@
 - [HyperSwitch](https://bahoom.com/hyperswitch) - 窗口切换器
 - [IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic IDE For JVM
 - [iHosts](https://toolinbox.net/iHosts/) - /etc/hosts 编辑神器
-- [IINA](https://lhc70000.github.io/iina/zh-cn/) - macOS 视频播放器
-  - `brew cask install iina`
+- [IINA](https://www.iina.io) - macOS 视频播放器
 - [iPic](https://toolinbox.net/iPic/) - 图床神器
 - [iText](https://toolinbox.net/iText/) - OCR 截图识字
 - [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar.
@@ -70,17 +68,15 @@
 - [SourceTree](https://www.sourcetreeapp.com/) - Simplicity and power in a beautiful Git GUI
 - [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
-- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+- [SwitchHosts](https://oldj.github.io/SwitchHosts/#cn) - 一个管理、切换多个 hosts 方案的工具。免费开源软件。
 - [Tencent Lemon](https://mac.gj.qq.com) - 腾讯柠檬清理，极致清理· 全新体验。
 - [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
-- [Timing](https://timingapp.com/) - Time Tracking Sucks
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - 一款专注于管理系统设置的免费应用
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
 - [Vanilla](http://matthewpalmer.net/vanilla/) - 精简 Mac 菜单栏应用图标，小巧轻量还免费
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令：运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
-- [网易邮箱大师](https://mail.163.com/dashi/ "官网，也可到 Mac App Store 下载")
 - [微云](https://www.weiyun.com/) - 腾讯微云，云盘。
 - [XMind](https://www.xmind.net/) - 思维导图
 
