@@ -28,7 +28,7 @@
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
 - [fantastical](https://flexibits.com/fantastical) - 收费日历应用
 - [Folx](https://mac.eltima.com/download-manager.html "官网") - 免费下载管理工具
-- [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
+- [Go2Shell](https://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE
 - [HexFiend](https://github.com/ridiculousfish/HexFiend/) - A fast and clever hex editor for Mac OS
 - [HyperDock](https://bahoom.com/hyperdock) - HyperDock adds long awaited features to your Dock
@@ -87,7 +87,8 @@
   - 结合 oh-my-zsh 更好，在 oh-my-zsh 插件中开启 autojump，之后直接使用`j`命令
 - [commitizen](https://www.npmjs.com/package/commitizen) - 使用 AngularJS 的 Git Commit 规范的命令工具
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
-- [Homebrew Cask](https://caskroom.github.io/) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike.
+- [Homebrew Cask](http://caskroom.io/) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to OS X applications and large binaries alike.
+  - `brew tap caskroom/cask`
 - [oh-my-zsh](http://ohmyz.sh/) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
     - `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
@@ -109,5 +110,3 @@
   - [用户脚本网站](https://greasyfork.org/zh-CN)
 
 ## Tips
-
-1. 
