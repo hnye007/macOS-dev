@@ -17,8 +17,9 @@
     - [Chrome Bookmarks](http://www.packal.org/workflow/chrome-bookmarks-0)
 - [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?mt=12) - 防休眠软件
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - automatically pause your music, set individual apps' volumes and record system audio.
 - [Bear](https://bear.app/) - 书写工具
-- [Cakebrew](https://www.cakebrew.com/) - [Homebrew](https://brew.sh/) 的客户端软件。摆脱命令方便安装、查看、卸载软件
+- ~~[Cakebrew](https://www.cakebrew.com/)~~ - [Homebrew](https://brew.sh/) 的客户端软件。摆脱命令方便安装、查看、卸载软件
   - `brew cask install cakebrew`
 - [Charles](https://www.charlesproxy.com/) - 代理工具
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 实用的快捷键快速提醒工具
@@ -26,7 +27,7 @@
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool
 - [Eudic 欧路辞典](https://dict.eudic.net/ "官网")
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
-- [fantastical](https://flexibits.com/fantastical) - 收费日历应用
+- ~~[fantastical](https://flexibits.com/fantastical)~~ - 收费日历应用
 - [Folx](https://mac.eltima.com/download-manager.html "官网") - 免费下载管理工具
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE
@@ -49,6 +50,7 @@
 - [Keka](https://www.keka.io/zh-cn/) - MacOS 压缩文件管理器
 - [Magnet](http://magnet.crowdcafe.com/) - Window manager for Mac
 - [Manico](https://manico.im/) - 快速 App 切换器
+- [NightOwl](https://nightowl.kramser.xyz/) - 简单切换 macOS 黑暗模式
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
 - [Paste](https://itunes.apple.com/cn/app/paste-smart-clipboard-history/id967805235?mt=12) - Paste is a smart clipboard and snippets manager
@@ -61,7 +63,6 @@
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE for Professional Developers
 - [Recents](http://recentsapp.com/) - Recents is a file launcher designed for Mac.
   > 可结合 Alfred
-- [RememBear](https://www.remembear.com/) - Secure and remember all your passwords… with a Bear
 - [Sequel Pro](http://www.sequelpro.com/) - MySQL 数据库管理软件
 - [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件
