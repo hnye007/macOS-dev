@@ -18,6 +18,7 @@
 - [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?mt=12) - 防休眠软件
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - automatically pause your music, set individual apps' volumes and record system audio.
+- [Bartender](https://www.macbartender.com/) - Organize your menu bar icons
 - [Bear](https://bear.app/) - 书写工具
 - ~~[Cakebrew](https://www.cakebrew.com/)~~ - [Homebrew](https://brew.sh/) 的客户端软件。摆脱命令方便安装、查看、卸载软件
   - `brew cask install cakebrew`
@@ -25,6 +26,7 @@
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 实用的快捷键快速提醒工具
 - [Dash](https://kapeli.com/dash) - API 离线文档软件
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool
+- [DBngin](https://dbngin.com/) - Free All-in-One Database Version Management Tool
 - [Eudic 欧路辞典](https://dict.eudic.net/ "官网")
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
 - ~~[fantastical](https://flexibits.com/fantastical)~~ - 收费日历应用
@@ -50,6 +52,7 @@
 - [Keka](https://www.keka.io/zh-cn/) - MacOS 压缩文件管理器
 - [Magnet](http://magnet.crowdcafe.com/) - Window manager for Mac
 - [Manico](https://manico.im/) - 快速 App 切换器
+- [Medis](http://getmedis.com/) - Beautiful Management Application for Redis
 - [NightOwl](https://nightowl.kramser.xyz/) - 简单切换 macOS 黑暗模式
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
@@ -70,6 +73,7 @@
 - [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [SwitchHosts](https://oldj.github.io/SwitchHosts/#cn) - 一个管理、切换多个 hosts 方案的工具。免费开源软件。
+- [TablePlus](https://tableplus.io/) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
 - [Tencent Lemon](https://mac.gj.qq.com) - 腾讯柠檬清理，极致清理· 全新体验。
 - [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - 一款专注于管理系统设置的免费应用
@@ -107,6 +111,7 @@
 
 - [algolia](https://github.algolia.com/) - A browser extension enhancing GitHub's search bar with autocomplete
 - [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
+- [简阅](http://ksria.com/simpread/) - 让你瞬间进入沉浸式阅读的扩展
 - [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器。
   - [用户脚本网站](https://greasyfork.org/zh-CN)
 
