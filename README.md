@@ -19,17 +19,12 @@
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - automatically pause your music, set individual apps' volumes and record system audio.
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons
-- [Bear](https://bear.app/) - 书写工具
-- ~~[Cakebrew](https://www.cakebrew.com/)~~ - [Homebrew](https://brew.sh/) 的客户端软件。摆脱命令方便安装、查看、卸载软件
-  - `brew cask install cakebrew`
 - [Charles](https://www.charlesproxy.com/) - 代理工具
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 实用的快捷键快速提醒工具
 - [Dash](https://kapeli.com/dash) - API 离线文档软件
-- [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool
 - [DBngin](https://dbngin.com/) - Free All-in-One Database Version Management Tool
 - [Eudic 欧路辞典](https://dict.eudic.net/ "官网")
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
-- ~~[fantastical](https://flexibits.com/fantastical)~~ - 收费日历应用
 - [Folx](https://mac.eltima.com/download-manager.html "官网") - 免费下载管理工具
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE
@@ -56,11 +51,10 @@
 - [NightOwl](https://nightowl.kramser.xyz/) - 简单切换 macOS 黑暗模式
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
-- [Paste](https://itunes.apple.com/cn/app/paste-smart-clipboard-history/id967805235?mt=12) - Paste is a smart clipboard and snippets manager
+- [Paste](https://pasteapp.me/) - Paste is a smart cloud clipboard history and snippets manager
   > Alfred 也有粘贴板功能，轻量、好用。
 - [PDF Expert](https://pdfexpert.com/zh) - Fast, robust and beautiful PDF editor
-- [PicGo](https://molunerfinn.com/PicGo/) - 开源图床工具
-- [PicU](https://github.com/chenxtdo/UPImageMacApp) - PicU is a tool for Mac, that can easily upload picture to QNServer and save a markdown link in the clipboard.
+- [PicGo](https://molunerfinn.com/PicGo/) - 开源图床工具，图片上传+管理新体验。
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
 - [Postman](https://www.getpostman.com/) - The Complete API Development Environment
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE for Professional Developers
@@ -79,11 +73,9 @@
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - 一款专注于管理系统设置的免费应用
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
-- [Vanilla](http://matthewpalmer.net/vanilla/) - 精简 Mac 菜单栏应用图标，小巧轻量还免费
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令：运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
 - [微云](https://www.weiyun.com/) - 腾讯微云，云盘。
-- [XMind](https://www.xmind.net/) - 思维导图
 
 ## Command-Line-Tools
 
@@ -91,9 +83,8 @@
   - `brew install autojump`
   - 结合 oh-my-zsh 更好，在 oh-my-zsh 插件中开启 autojump，之后直接使用`j`命令
 - [commitizen](https://www.npmjs.com/package/commitizen) - 使用 AngularJS 的 Git Commit 规范的命令工具
+- [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
-- [Homebrew Cask](http://caskroom.io/) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to OS X applications and large binaries alike.
-  - `brew tap caskroom/cask`
 - [oh-my-zsh](http://ohmyz.sh/) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
     - `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
@@ -112,6 +103,7 @@
 - [algolia](https://github.algolia.com/) - A browser extension enhancing GitHub's search bar with autocomplete
 - [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
 - [简阅](http://ksria.com/simpread/) - 让你瞬间进入沉浸式阅读的扩展
+- [sourcegraph](https://docs.sourcegraph.com/integration/browser_extension)
 - [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器。
   - [用户脚本网站](https://greasyfork.org/zh-CN)
 
