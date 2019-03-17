@@ -19,6 +19,7 @@
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - automatically pause your music, set individual apps' volumes and record system audio.
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons
+- [Buffet](https://itunes.apple.com/cn/app/buffet!/id1048695921?l=en&mt=12) - Browser Picker
 - [Charles](https://www.charlesproxy.com/) - 代理工具
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 实用的快捷键快速提醒工具
 - [Dash](https://kapeli.com/dash) - API 离线文档软件
@@ -28,6 +29,7 @@
 - [Folx](https://mac.eltima.com/download-manager.html "官网") - 免费下载管理工具
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE
+- [hazeover](https://hazeover.com/) - Turn distractions down and focus on your current task.
 - [HexFiend](https://github.com/ridiculousfish/HexFiend/) - A fast and clever hex editor for Mac OS
 - [HyperDock](https://bahoom.com/hyperdock) - HyperDock adds long awaited features to your Dock
 - [HyperSwitch](https://bahoom.com/hyperswitch) - 窗口切换器
@@ -37,7 +39,7 @@
 - [iPic](https://toolinbox.net/iPic/) - 图床神器
 - [iText](https://toolinbox.net/iText/) - OCR 截图识字
 - [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar.
-- [iStatistica](http://www.imagetasks.com/system-battery-network-monitor-widget/) - 一款高颜值的系统监控工具
+- [iStatistica Pro](https://www.imagetasks.com/system-battery-network-monitor-widget/pro/) - System Monitor
 - [iTerm2](https://www.iterm2.com/) - 终端工具
   - [Iterm2-color-schemes](http://iterm2colorschemes.com/)
 - [Infinity Dashboard](https://fiplab.com/apps/infinity-dashboard-for-mac) - Mac 菜单栏工具
@@ -48,6 +50,7 @@
 - [Magnet](http://magnet.crowdcafe.com/) - Window manager for Mac
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - Beautiful Management Application for Redis
+- [Motrix](https://motrix.app/) - A full-featured download manager
 - [NightOwl](https://nightowl.kramser.xyz/) - 简单切换 macOS 黑暗模式
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
@@ -64,24 +67,21 @@
 - [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件
 - [SourceTree](https://www.sourcetreeapp.com/) - Simplicity and power in a beautiful Git GUI
-- [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
+- [Sublime Merge](https://www.sublimemerge.com/) - Git Client
 - [SwitchHosts](https://oldj.github.io/SwitchHosts/#cn) - 一个管理、切换多个 hosts 方案的工具。免费开源软件。
 - [TablePlus](https://tableplus.io/) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
 - [Tencent Lemon](https://mac.gj.qq.com) - 腾讯柠檬清理，极致清理· 全新体验。
 - [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - 一款专注于管理系统设置的免费应用
+- [TrashMe](https://www.jibapps.com/apps/trashme/) - Uninstall and clean, the perfect way
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令：运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
-- [微云](https://www.weiyun.com/) - 腾讯微云，云盘。
 
 ## Command-Line-Tools
 
-- [autojump](https://github.com/wting/autojump) - 告别又臭又长的路径名，一键直达任何目录
-  - `brew install autojump`
-  - 结合 oh-my-zsh 更好，在 oh-my-zsh 插件中开启 autojump，之后直接使用`j`命令
 - [commitizen](https://www.npmjs.com/package/commitizen) - 使用 AngularJS 的 Git Commit 规范的命令工具
 - [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
@@ -101,6 +101,8 @@
 ## Browser-Plugins
 
 - [algolia](https://github.algolia.com/) - A browser extension enhancing GitHub's search bar with autocomplete
+- [Better OneTab](https://github.com/cnwangjie/better-onetab) - 一个更好的 OneTab 扩展
+- [bilibili helper](https://bilibili-helper.github.io/) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
 - [简阅](http://ksria.com/simpread/) - 让你瞬间进入沉浸式阅读的扩展
 - [sourcegraph](https://docs.sourcegraph.com/integration/browser_extension)
