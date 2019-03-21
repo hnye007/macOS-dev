@@ -34,7 +34,7 @@
 - [HyperDock](https://bahoom.com/hyperdock) - HyperDock adds long awaited features to your Dock
 - [HyperSwitch](https://bahoom.com/hyperswitch) - 窗口切换器
 - [IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic IDE For JVM
-- [iHosts](https://toolinbox.net/iHosts/) - /etc/hosts 编辑神器
+- ~~[iHosts](https://toolinbox.net/iHosts/)~~ - /etc/hosts 编辑神器
 - [IINA](https://www.iina.io) - macOS 视频播放器
 - [iPic](https://toolinbox.net/iPic/) - 图床神器
 - [iText](https://toolinbox.net/iText/) - OCR 截图识字
@@ -51,6 +51,7 @@
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - Beautiful Management Application for Redis
 - [Motrix](https://motrix.app/) - A full-featured download manager
+- [MWeb](https://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件
 - [NightOwl](https://nightowl.kramser.xyz/) - 简单切换 macOS 黑暗模式
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
@@ -74,7 +75,7 @@
 - [Tencent Lemon](https://mac.gj.qq.com) - 腾讯柠檬清理，极致清理· 全新体验。
 - [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - 一款专注于管理系统设置的免费应用
-- [TrashMe](https://www.jibapps.com/apps/trashme/) - Uninstall and clean, the perfect way
+- ~~[TrashMe](https://www.jibapps.com/apps/trashme/)~~ - Uninstall and clean, the perfect way
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
@@ -83,20 +84,23 @@
 ## Command-Line-Tools
 
 - [commitizen](https://www.npmjs.com/package/commitizen) - 使用 AngularJS 的 Git Commit 规范的命令工具
-- [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.
+- [ctop](https://ctop.sh/) - concise commandline monitoring for containers  
+  `brew install ctop`
+- [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.  
+  `npm install fanyi -g`
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
 - [oh-my-zsh](http://ohmyz.sh/) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
-  - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)
-    - `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
+  - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)  
+  `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
 - [Prezto](https://github.com/sorin-ionescu/prezto) - zsh 配置框架，比 oh-my-zsh 轻量
   - [Prezto-custom](https://github.com/hnye007/prezto)
-- [unar](https://theunarchiver.com/command-line) - 解压缩命令行工具
-  - `brew install unar`
-- [vim](http://www.vim.org/)
-  - `brew install vim`
-  - [.vimrc 文件](./config/.vimrc) - 简单的配置
-- [z](https://github.com/rupa/z) - jump around，类似 autojump，但更好用
-  - `brew install z`
+- [unar](https://theunarchiver.com/command-line) - 解压缩命令行工具  
+  `brew install unar`
+- [vim](http://www.vim.org/)  
+  `brew install vim`  
+  [简单的配置.vimrc 文件](./config/.vimrc)
+- [z](https://github.com/rupa/z) - jump around，类似 autojump，但更好用  
+  `brew install z`
 
 ## Browser-Plugins
 
