@@ -83,12 +83,18 @@
 
 ## Command-Line-Tools
 
+  > 基本都能用 Homebrew (for macOS) 安装
+
+- [annie](https://github.com/iawia002/annie) - Fast, simple and clean video downloader
 - [commitizen](https://www.npmjs.com/package/commitizen) - 使用 AngularJS 的 Git Commit 规范的命令工具
-- [ctop](https://ctop.sh/) - concise commandline monitoring for containers  
-  `brew install ctop`
+- [ctop](https://ctop.sh/) - concise commandline monitoring for containers
 - [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.  
   `npm install fanyi -g`
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
+- [jq](https://stedolan.github.io/jq/) - jq is like `sed` for JSON data  
+- [jid](https://github.com/simeji/jid) - Json Incremental Digger. like `jq`
+- [lego](https://go-acme.github.io/lego/) - Let’s Encrypt client and ACME library written in Go.
+- [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [oh-my-zsh](http://ohmyz.sh/) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)  
   `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
@@ -96,11 +102,10 @@
   - [Prezto-custom](https://github.com/hnye007/prezto)
 - [unar](https://theunarchiver.com/command-line) - 解压缩命令行工具  
   `brew install unar`
+- [vegeta](https://github.com/tsenart/vegeta) - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate.
 - [vim](http://www.vim.org/)  
-  `brew install vim`  
   [简单的配置.vimrc 文件](./config/.vimrc)
-- [z](https://github.com/rupa/z) - jump around，类似 autojump，但更好用  
-  `brew install z`
+- [z](https://github.com/rupa/z) - jump around，类似 autojump，但更好用
 
 ## Browser-Plugins
 
@@ -109,6 +114,8 @@
 - [bilibili helper](https://bilibili-helper.github.io/) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
 - [简阅](http://ksria.com/simpread/) - 让你瞬间进入沉浸式阅读的扩展
+- [简Tab](http://ksria.com/simptab/) - 极简的 Chrome 新标签页扩展
+- [几枝](https://github.com/unicar9/jizhi) - 支持自定义新标签页的 Chrome 扩展，几枝将在新标签页上展示中国传统色的层叠波浪动画效果搭配经典诗词。
 - [sourcegraph](https://docs.sourcegraph.com/integration/browser_extension)
 - [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器。
   - [用户脚本网站](https://greasyfork.org/zh-CN)
