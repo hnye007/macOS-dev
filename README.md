@@ -27,6 +27,7 @@
 - [Eudic 欧路辞典](https://dict.eudic.net/ "官网")
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
 - [Folx](https://mac.eltima.com/download-manager.html "官网") - 免费下载管理工具
+- [Gestimer](http://maddin.io/gestimer/) - For those little reminders during the day
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE
 - [hazeover](https://hazeover.com/) - Turn distractions down and focus on your current task.
@@ -75,21 +76,25 @@
 - [Tencent Lemon](https://mac.gj.qq.com) - 腾讯柠檬清理，极致清理· 全新体验。
 - [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - 一款专注于管理系统设置的免费应用
+- [TotalFinder](https://totalfinder.binaryage.com/) - for Mac users who demand more from their Finder
 - ~~[TrashMe](https://www.jibapps.com/apps/trashme/)~~ - Uninstall and clean, the perfect way
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令：运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
+- [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer.
 
 ## Command-Line-Tools
 
-  > 基本都能用 Homebrew (for macOS) 安装
+  > macOS 下基本都能用 Homebrew 安装
 
 - [annie](https://github.com/iawia002/annie) - Fast, simple and clean video downloader
 - [commitizen](https://www.npmjs.com/package/commitizen) - 使用 AngularJS 的 Git Commit 规范的命令工具
 - [ctop](https://ctop.sh/) - concise commandline monitoring for containers
+- [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
 - [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.  
   `npm install fanyi -g`
+- [gvm](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
 - [jq](https://stedolan.github.io/jq/) - jq is like `sed` for JSON data  
 - [jid](https://github.com/simeji/jid) - Json Incremental Digger. like `jq`
@@ -100,6 +105,7 @@
   `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
 - [Prezto](https://github.com/sorin-ionescu/prezto) - zsh 配置框架，比 oh-my-zsh 轻量
   - [Prezto-custom](https://github.com/hnye007/prezto)
+- [tldr](https://tldr.sh/) - Simplified and community-driven man pages
 - [unar](https://theunarchiver.com/command-line) - 解压缩命令行工具  
   `brew install unar`
 - [vegeta](https://github.com/tsenart/vegeta) - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate.
