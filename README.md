@@ -115,15 +115,18 @@
 
 ## Browser-Plugins
 
-- [algolia](https://github.algolia.com/) - A browser extension enhancing GitHub's search bar with autocomplete
 - [Better OneTab](https://github.com/cnwangjie/better-onetab) - 一个更好的 OneTab 扩展
 - [bilibili helper](https://bilibili-helper.github.io/) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
 - [简阅](http://ksria.com/simpread/) - 让你瞬间进入沉浸式阅读的扩展
 - [简Tab](http://ksria.com/simptab/) - 极简的 Chrome 新标签页扩展
 - [几枝](https://github.com/unicar9/jizhi) - 支持自定义新标签页的 Chrome 扩展，几枝将在新标签页上展示中国传统色的层叠波浪动画效果搭配经典诗词。
-- [sourcegraph](https://docs.sourcegraph.com/integration/browser_extension)
+- [Octotree](https://github.com/ovity/octotree)
+- [Quick QR](https://high-qr-code-generator.com/) - QR Code Generator
+- [Sourcegraph](https://docs.sourcegraph.com/integration/browser_extension)
 - [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器。
   - [用户脚本网站](https://greasyfork.org/zh-CN)
+- [Vimium](https://vimium.github.io/) - Vimium is a Google Chrome extension which provides keyboard shortcuts for navigation and control in the spirit of the Vim editor.
+- [WEB前端助手(FeHelper)](https://www.baidufe.com/fehelper)
 
 ## Tips
