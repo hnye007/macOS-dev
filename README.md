@@ -4,6 +4,7 @@
 
 - [Applications](#Applications)
 - [Command-Line-Tools](#Command-Line-Tools)
+- [Editer-Plugins](#Editer-Plugins)
 - [Browser-Plugins](#Browser-Plugins)
 - [Tips](#Tips)
 
@@ -112,6 +113,10 @@
 - [vim](http://www.vim.org/)  
   [简单的配置.vimrc 文件](./config/.vimrc)
 - [z](https://github.com/rupa/z) - jump around，类似 autojump，但更好用
+
+## Editer-Plugins
+
+- [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/) - 一款为 Atom 以及 Visual Studio Code 编辑器编写的超级强大的 Markdown 插件
 
 ## Browser-Plugins
 
