@@ -40,7 +40,7 @@
 - [IINA](https://www.iina.io) - macOS 视频播放器
 - [iPic](https://toolinbox.net/iPic/) - 图床神器
 - [iText](https://toolinbox.net/iText/) - OCR 截图识字
-- [Itsycal](https://www.mowglii.com/itsycal/) - a tiny menu bar calendar.
+- [Itsycal](https://www.mowglii.com/itsycal/) - 轻巧的菜单栏日历工具。
 - [iStatistica Pro](https://www.imagetasks.com/system-battery-network-monitor-widget/pro/) - System Monitor
 - [iTerm2](https://www.iterm2.com/) - 终端工具
   - [Iterm2-color-schemes](http://iterm2colorschemes.com/)
@@ -78,7 +78,6 @@
 - [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - 一款专注于管理系统设置的免费应用
 - [TotalFinder](https://totalfinder.binaryage.com/) - for Mac users who demand more from their Finder
-- ~~[TrashMe](https://www.jibapps.com/apps/trashme/)~~ - Uninstall and clean, the perfect way
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
