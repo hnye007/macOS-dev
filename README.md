@@ -91,6 +91,7 @@
 - [annie](https://github.com/iawia002/annie) - Fast, simple and clean video downloader
 - [commitizen](https://www.npmjs.com/package/commitizen) - 使用 AngularJS 的 Git Commit 规范的命令工具
 - [ctop](https://ctop.sh/) - concise commandline monitoring for containers
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - diff-so-fancy strives to make your diffs human readable instead of machine readable.（增强 git diff 可读性）
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
 - [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.  
   `npm install fanyi -g`
