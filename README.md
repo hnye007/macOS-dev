@@ -93,6 +93,7 @@
 - [ctop](https://ctop.sh/) - concise commandline monitoring for containers
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - diff-so-fancy strives to make your diffs human readable instead of machine readable.（增强 git diff 可读性）
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
+- [essh](https://github.com/seamounts/essh) - Extended ssh command
 - [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.  
   `npm install fanyi -g`
 - [gvm](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
@@ -100,6 +101,8 @@
 - [jq](https://stedolan.github.io/jq/) - jq is like `sed` for JSON data  
 - [jid](https://github.com/simeji/jid) - Json Incremental Digger. like `jq`
 - [lego](https://go-acme.github.io/lego/) - Let’s Encrypt client and ACME library written in Go.
+- [mmh](https://github.com/mritd/mmh) - 一个使用 Go 编写的简单多服务器登录管理小工具
+- [nghttp2](https://nghttp2.org/) - nghttp2 is an implementation of HTTP/2 and its header compression algorithm HPACK in C.
 - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [oh-my-zsh](http://ohmyz.sh/) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)  
