@@ -11,11 +11,7 @@
 ## Applications
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器
-  - Features
-    - Web Search
-  - Workflows
-    - [Workflows List](http://www.alfredworkflow.com/ "第三方工作流下载网站 @hzlzh")
-    - [Chrome Bookmarks](http://www.packal.org/workflow/chrome-bookmarks-0)
+  - [Workflows](http://www.alfredworkflow.com/ "第三方工作流下载网站 @hzlzh")
 - [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?mt=12) - 防休眠软件
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - automatically pause your music, set individual apps' volumes and record system audio.
@@ -52,12 +48,11 @@
 - [Magnet](http://magnet.crowdcafe.com/) - Window manager for Mac
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - Beautiful Management Application for Redis
-- [Motrix](https://motrix.app/) - A full-featured download manager
 - [MWeb](https://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件
 - [NightOwl](https://nightowl.kramser.xyz/) - 简单切换 macOS 黑暗模式
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
-- [Paste](https://pasteapp.me/) - Paste is a smart cloud clipboard history and snippets manager
+- ~~[Paste](https://pasteapp.me/)~~ - Paste is a smart cloud clipboard history and snippets manager
   > Alfred 也有粘贴板功能，轻量、好用。
 - [PDF Expert](https://pdfexpert.com/zh) - Fast, robust and beautiful PDF editor
 - [PicGo](https://molunerfinn.com/PicGo/) - 开源图床工具，图片上传+管理新体验。
@@ -80,6 +75,7 @@
 - [TotalFinder](https://totalfinder.binaryage.com/) - for Mac users who demand more from their Finder
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
+- [uTools](https://u.tools/) - uTools是一个极简、插件化、跨平台的现代桌面软件。通过自由选配丰富的插件，打造你得心应手的工具集合。
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令：运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer.
@@ -93,8 +89,7 @@
 - [ctop](https://ctop.sh/) - concise commandline monitoring for containers
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - diff-so-fancy strives to make your diffs human readable instead of machine readable.（增强 git diff 可读性）
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
-- [essh](https://github.com/seamounts/essh) - Extended ssh command
-- [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.  
+- [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.
   `npm install fanyi -g`
 - [gvm](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
@@ -104,16 +99,15 @@
 - [mmh](https://github.com/mritd/mmh) - 一个使用 Go 编写的简单多服务器登录管理小工具
 - [nghttp2](https://nghttp2.org/) - nghttp2 is an implementation of HTTP/2 and its header compression algorithm HPACK in C.
 - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
-- [oh-my-zsh](http://ohmyz.sh/) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
+- ~~[oh-my-zsh](http://ohmyz.sh/)~~ - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)  
   `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
 - [Prezto](https://github.com/sorin-ionescu/prezto) - zsh 配置框架，比 oh-my-zsh 轻量
-  - [Prezto-custom](https://github.com/hnye007/prezto)
+  - [Prezto-custom](https://github.com/wenyuan5/prezto)
 - [tldr](https://tldr.sh/) - Simplified and community-driven man pages
-- [unar](https://theunarchiver.com/command-line) - 解压缩命令行工具  
+- [unar](https://theunarchiver.com/command-line) - 解压缩命令行工具
   `brew install unar`
-- [vegeta](https://github.com/tsenart/vegeta) - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate.
-- [vim](http://www.vim.org/)  
+- [vim](http://www.vim.org/)
   [简单的配置.vimrc 文件](./config/.vimrc)
 - [z](https://github.com/rupa/z) - jump around，类似 autojump，但更好用
 
