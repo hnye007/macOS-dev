@@ -3,9 +3,10 @@
 ## Contents
 
 - [Applications](#Applications)
-- [Command-Line-Tools](#Command-Line-Tools)
-- [Editer-Plugins](#Editer-Plugins)
+- [Cli](#Cli)
 - [Browser-Plugins](#Browser-Plugins)
+- [Editer-Plugins](#Editer-Plugins)
+- [IDEA-Plugins](#IDEA-Plugins)
 - [Tips](#Tips)
 
 ## Applications
@@ -25,6 +26,7 @@
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
 - [Folx](https://mac.eltima.com/download-manager.html "官网") - 免费下载管理工具
 - [Gestimer](http://maddin.io/gestimer/) - For those little reminders during the day
+- [git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE
 - [hazeover](https://hazeover.com/) - Turn distractions down and focus on your current task.
@@ -75,16 +77,17 @@
 - [TotalFinder](https://totalfinder.binaryage.com/) - for Mac users who demand more from their Finder
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
-- [uTools](https://u.tools/) - uTools是一个极简、插件化、跨平台的现代桌面软件。通过自由选配丰富的插件，打造你得心应手的工具集合。
+- [uTools](https://u.tools/) - uTools 是一个极简、插件化、跨平台的现代桌面软件。通过自由选配丰富的插件，打造你得心应手的工具集合。
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
   - 终端下使用`code`命令：运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer.
 
-## Command-Line-Tools
+## Cli
 
-  > macOS 下基本都能用 Homebrew 安装
+> macOS 下基本都能用 Homebrew 安装
 
 - [annie](https://github.com/iawia002/annie) - Fast, simple and clean video downloader
+- [container-diff](https://github.com/GoogleContainerTools/container-diff) - Diff your Docker containers
 - [commitizen](https://www.npmjs.com/package/commitizen) - 使用 AngularJS 的 Git Commit 规范的命令工具
 - [ctop](https://ctop.sh/) - concise commandline monitoring for containers
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - diff-so-fancy strives to make your diffs human readable instead of machine readable.（增强 git diff 可读性）
@@ -93,7 +96,7 @@
   `npm install fanyi -g`
 - [gvm](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
-- [jq](https://stedolan.github.io/jq/) - jq is like `sed` for JSON data  
+- [jq](https://stedolan.github.io/jq/) - jq is like `sed` for JSON data
 - [jid](https://github.com/simeji/jid) - Json Incremental Digger. like `jq`
 - [lego](https://go-acme.github.io/lego/) - Let’s Encrypt client and ACME library written in Go.
 - [mmh](https://github.com/mritd/mmh) - 一个使用 Go 编写的简单多服务器登录管理小工具
@@ -101,7 +104,7 @@
 - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - ~~[oh-my-zsh](http://ohmyz.sh/)~~ - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)  
-  `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
+    `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
 - [Prezto](https://github.com/sorin-ionescu/prezto) - zsh 配置框架，比 oh-my-zsh 轻量
   - [Prezto-custom](https://github.com/wenyuan5/prezto)
 - [tldr](https://tldr.sh/) - Simplified and community-driven man pages
@@ -111,17 +114,13 @@
   [简单的配置.vimrc 文件](./config/.vimrc)
 - [z](https://github.com/rupa/z) - jump around，类似 autojump，但更好用
 
-## Editer-Plugins
-
-- [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/) - 一款为 Atom 以及 Visual Studio Code 编辑器编写的超级强大的 Markdown 插件
-
 ## Browser-Plugins
 
 - [Better OneTab](https://github.com/cnwangjie/better-onetab) - 一个更好的 OneTab 扩展
 - [bilibili helper](https://bilibili-helper.github.io/) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
 - [简阅](http://ksria.com/simpread/) - 让你瞬间进入沉浸式阅读的扩展
-- [简Tab](http://ksria.com/simptab/) - 极简的 Chrome 新标签页扩展
+- [简 Tab](http://ksria.com/simptab/) - 极简的 Chrome 新标签页扩展
 - [几枝](https://github.com/unicar9/jizhi) - 支持自定义新标签页的 Chrome 扩展，几枝将在新标签页上展示中国传统色的层叠波浪动画效果搭配经典诗词。
 - [Octotree](https://github.com/ovity/octotree)
 - [Quick QR](https://high-qr-code-generator.com/) - QR Code Generator
@@ -129,6 +128,22 @@
 - [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器。
   - [用户脚本网站](https://greasyfork.org/zh-CN)
 - [Vimium](https://vimium.github.io/) - Vimium is a Google Chrome extension which provides keyboard shortcuts for navigation and control in the spirit of the Vim editor.
-- [WEB前端助手(FeHelper)](https://www.baidufe.com/fehelper)
+- [WEB 前端助手(FeHelper)](https://www.baidufe.com/fehelper)
+
+## Editer-Plugins
+
+- [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/) - 一款为 Atom 以及 Visual Studio Code 编辑器编写的超级强大的 Markdown 插件
+
+## IDEA-Plugins
+
+- Alibaba Java Coding Guidelines
+- Free Mybatis plugin
+- jclasslib Bytecode viewer
+- JRebel for IntelliJ
+- Key Promoter X - A plugin to learn the IntelliJ IDEA shortcuts.
+- Lombok
+- Maven Helper
+- MyBatis Log Plugin
+- Rainbow Brackets
 
 ## Tips
