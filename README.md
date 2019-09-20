@@ -36,6 +36,7 @@
 - [IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic IDE For JVM
 - ~~[iHosts](https://toolinbox.net/iHosts/)~~ - /etc/hosts 编辑神器
 - [IINA](https://www.iina.io) - macOS 视频播放器
+- [insomnia](https://insomnia.rest) - Powerful HTTP and GraphQL tool belt
 - [iPic](https://toolinbox.net/iPic/) - 图床神器
 - [iText](https://toolinbox.net/iText/) - OCR 截图识字
 - [Itsycal](https://www.mowglii.com/itsycal/) - 轻巧的菜单栏日历工具。
