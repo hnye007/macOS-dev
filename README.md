@@ -18,6 +18,7 @@
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - automatically pause your music, set individual apps' volumes and record system audio.
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons
 - [Buffet](https://itunes.apple.com/cn/app/buffet!/id1048695921?l=en&mt=12) - Browser Picker
+- [Caffeinated]() - 
 - [Charles](https://www.charlesproxy.com/) - 代理工具
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 实用的快捷键快速提醒工具
 - [Dash](https://kapeli.com/dash) - API 离线文档软件
@@ -25,7 +26,7 @@
 - [Eudic 欧路辞典](https://dict.eudic.net/ "官网")
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
 - [Folx](https://mac.eltima.com/download-manager.html "官网") - 免费下载管理工具
-- [Gestimer](http://maddin.io/gestimer/) - For those little reminders during the day
+- [Gestimer](http://maddin.io/gestimer/) - 简单方便的提醒创建小工具
 - [git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
 - [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE
@@ -48,6 +49,7 @@
 - [Kap](https://getkap.co/) - Capture your screen
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for macOS.
 - [Keka](https://www.keka.io/zh-cn/) - MacOS 压缩文件管理器
+- [MacVim](https://macvim-dev.github.io/macvim/) - Vim - the text editor - for macOS
 - [Magnet](http://magnet.crowdcafe.com/) - Window manager for Mac
 - [Manico](https://manico.im/) - 快速 App 切换器
 - [Medis](http://getmedis.com/) - Beautiful Management Application for Redis
@@ -57,7 +59,7 @@
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
 - ~~[Paste](https://pasteapp.me/)~~ - Paste is a smart cloud clipboard history and snippets manager
   > Alfred 也有粘贴板功能，轻量、好用。
-- [PDF Expert](https://pdfexpert.com/zh) - Fast, robust and beautiful PDF editor
+- [PDF Expert](https://pdfexpert.com/zh) - 快速、轻巧、易用的 PDF 编辑器
 - [PicGo](https://molunerfinn.com/PicGo/) - 开源图床工具，图片上传+管理新体验。
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
 - [Postman](https://www.getpostman.com/) - The Complete API Development Environment
@@ -100,6 +102,7 @@
 - [jq](https://stedolan.github.io/jq/) - jq is like `sed` for JSON data
 - [jid](https://github.com/simeji/jid) - Json Incremental Digger. like `jq`
 - [lego](https://go-acme.github.io/lego/) - Let’s Encrypt client and ACME library written in Go.
+- [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [mmh](https://github.com/mritd/mmh) - 一个使用 Go 编写的简单多服务器登录管理小工具
 - [nghttp2](https://nghttp2.org/) - nghttp2 is an implementation of HTTP/2 and its header compression algorithm HPACK in C.
 - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
@@ -139,12 +142,15 @@
 
 - Alibaba Java Coding Guidelines
 - Free Mybatis plugin
-- jclasslib Bytecode viewer
+- GenerateAllSetter
+- IdeaVim
+- IdeaVimExtension - 为 IdeaVim 插件增加自动切换为英文输入法的功能
+- jclasslib Bytecode viewer - jclasslib is a bytecode viewer for Java class files
 - JRebel for IntelliJ
 - Key Promoter X - A plugin to learn the IntelliJ IDEA shortcuts.
 - Lombok
 - Maven Helper
-- MyBatis Log Plugin
+- MyBatis Log Plugin - 把 mybatis 输出的 sql 日志还原成完整的sql语句
 - Rainbow Brackets
 
 ## Tips
