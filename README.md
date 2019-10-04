@@ -13,12 +13,12 @@
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器
   - [Workflows](http://www.alfredworkflow.com/ "第三方工作流下载网站 @hzlzh")
-- [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?mt=12) - 防休眠软件
+- ~~[Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?mt=12)~~ - 防休眠软件
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - automatically pause your music, set individual apps' volumes and record system audio.
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons
 - [Buffet](https://itunes.apple.com/cn/app/buffet!/id1048695921?l=en&mt=12) - Browser Picker
-- [Caffeinated]() - 
+- [Caffeinated](https://yugen.design/caffeinated/) - 防睡眠应用
 - [Charles](https://www.charlesproxy.com/) - 代理工具
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 实用的快捷键快速提醒工具
 - [Dash](https://kapeli.com/dash) - API 离线文档软件
@@ -27,8 +27,7 @@
 - [Evernote](https://www.yinxiang.com/ "官网") - 印象笔记
 - [Folx](https://mac.eltima.com/download-manager.html "官网") - 免费下载管理工具
 - [Gestimer](http://maddin.io/gestimer/) - 简单方便的提醒创建小工具
-- [git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
-- [Go2Shell](https://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行
+- ~~[Go2Shell](https://zipzapmac.com/Go2Shell)~~ - 从 Finder 打开命令行
 - [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE
 - [hazeover](https://hazeover.com/) - Turn distractions down and focus on your current task.
 - [HexFiend](https://github.com/ridiculousfish/HexFiend/) - A fast and clever hex editor for Mac OS
@@ -41,7 +40,7 @@
 - [iPic](https://toolinbox.net/iPic/) - 图床神器
 - [iText](https://toolinbox.net/iText/) - OCR 截图识字
 - [Itsycal](https://www.mowglii.com/itsycal/) - 轻巧的菜单栏日历工具。
-- [iStatistica Pro](https://www.imagetasks.com/system-battery-network-monitor-widget/pro/) - System Monitor
+- [iStatistica](https://www.imagetasks.com/system-battery-network-monitor-widget/) - macOS system monitoring widget
 - [iTerm2](https://www.iterm2.com/) - 终端工具
   - [Iterm2-color-schemes](http://iterm2colorschemes.com/)
 - [Infinity Dashboard](https://fiplab.com/apps/infinity-dashboard-for-mac) - Mac 菜单栏工具
@@ -52,7 +51,7 @@
 - [MacVim](https://macvim-dev.github.io/macvim/) - Vim - the text editor - for macOS
 - [Magnet](http://magnet.crowdcafe.com/) - Window manager for Mac
 - [Manico](https://manico.im/) - 快速 App 切换器
-- [Medis](http://getmedis.com/) - Beautiful Management Application for Redis
+- ~~[Medis](http://getmedis.com/)~~ - Beautiful Management Application for Redis
 - [MWeb](https://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件
 - [NightOwl](https://nightowl.kramser.xyz/) - 简单切换 macOS 黑暗模式
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
@@ -77,7 +76,7 @@
 - [Tencent Lemon](https://mac.gj.qq.com) - 腾讯柠檬清理，极致清理· 全新体验。
 - [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - 一款专注于管理系统设置的免费应用
-- [TotalFinder](https://totalfinder.binaryage.com/) - for Mac users who demand more from their Finder
+- ~~[TotalFinder](https://totalfinder.binaryage.com/)~~ - for Mac users who demand more from their Finder
 - [typora](https://typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
 - [uTools](https://u.tools/) - uTools 是一个极简、插件化、跨平台的现代桌面软件。通过自由选配丰富的插件，打造你得心应手的工具集合。
