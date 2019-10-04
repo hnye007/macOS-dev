@@ -29,20 +29,28 @@ set backspace=2 "回退键生效
 set expandtab " 将制表符扩展为空格
 set tabstop=4 " 制表符占用空格数
 set shiftwidth=4 " 设置格式化时制表符占用空格数
-set softtabstop=4 " 让 vim 把连续数量的空格视为一个制表符
+"set softtabstop=4 " 让 vim 把连续数量的空格视为一个制表符
 
 
-" from http://www.ruanyifeng.com/blog/2018/09/vimrc.html
+"from http://www.ruanyifeng.com/blog/2018/09/vimrc.html
 set showmode " 在底部显示，当前处于命令模式还是插入模式
 set showcmd "命令模式下，在底部显示，当前键入的指令。比如，键入的指令是2y3d，那么底部就会显示2y3，当键入d的时候，操作完成，显示消失。
-"set mouse=a "支持使用鼠标
-"set encoding=utf-8
+set mouse=a "支持使用鼠标
+set encoding=utf-8
 set t_Co=256
-set autoindent "按下回车键后，下一行的缩进会自动跟上一行的缩进保持一致。
+"set autoindent "按下回车键后，下一行的缩进会自动跟上一行的缩进保持一致。
 "set relativenumber "显示光标所在的当前行的行号，其他行都为相对于该行的相对行号。
-set textwidth=80 "设置行宽，即一行显示多少个字符。
+set textwidth=120 "设置行宽，即一行显示多少个字符。
 set wrap "自动折行，即太长的行分成几行显示。
-"set nowrap
-set scrolloff=5 "垂直滚动时，光标距离顶部/底部的位置（单位：行）。
+"set nowrap "关闭自动折行
+set linebreak "只有遇到指定的符号（比如空格、连词号和其他标点符号），才发生折行。也就是说，不会在单词内部折行。
+set scrolloff=10 "垂直滚动时，光标距离顶部/底部的位置（单位：行）。
 set sidescrolloff=15 "水平滚动时，光标距离行首或行尾的位置（单位：字符）。该配置在不折行时比较有用。
 set showmatch "光标遇到圆括号、方括号、大括号时，自动高亮对应的另一个圆括号、方括号和大括号。
+"set visualbell "出错时，发出视觉提示，通常是屏幕闪烁。
+
+"set list
+"set listchars=tab:→\ ,space:·,nbsp:␣,trail:•,eol:¶,precedes:«,extends:»
+"set listchars=tab:→\ ,space:·,nbsp:␣,trail:•,precedes:«,extends:»
+
+set guifont=Monaco:h12
