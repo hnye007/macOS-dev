@@ -136,7 +136,8 @@
   - [百度网盘直链下载助手](https://github.com/syhyz1990/baiduyun)
   - [网页限制解除](https://cat7373.github.io/remove-web-limits/)
   - [网页限制解除(改)](https://greasyfork.org/zh-CN/scripts/28497-remove-web-limits-modified)
-- [Vimium](https://vimium.github.io/) - Vimium is a Google Chrome extension which provides keyboard shortcuts for navigation and control in the spirit of the Vim editor.
+- ~~[Vimium](https://vimium.github.io/)~~ - Vimium is a Google Chrome extension which provides keyboard shortcuts for navigation and control in the spirit of the Vim editor.
+  > Surfingkeys is better.
 
 ## Editer-Plugins
 
