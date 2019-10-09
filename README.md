@@ -121,7 +121,6 @@
 
 - [Better OneTab](https://github.com/cnwangjie/better-onetab) - 一个更好的 OneTab 扩展
 - [bilibili helper](https://bilibili-helper.github.io/) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
-- [cVim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [Dadda（达达）](https://github.com/waynecz/dadda-translate-crx) - 漂亮的划词翻译插件 / 让你在 Chrome 上背单词（可同步至扇贝、有道单词）
 - [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
 - [FeHelper](https://github.com/zxlie/FeHelper) - 包含一些前端实用的工具
@@ -130,12 +129,12 @@
 - [几枝](https://github.com/unicar9/jizhi) - 支持自定义新标签页的 Chrome 扩展，几枝将在新标签页上展示中国传统色的层叠波浪动画效果搭配经典诗词。
 - [Octotree](https://github.com/ovity/octotree)
 - [Quick QR](https://high-qr-code-generator.com/) - QR Code Generator
+- [沙拉查词](https://saladict.crimx.com) - Saladict 沙拉查词是一款专业划词翻译扩展，为交叉阅读而生。大量权威词典涵盖中英日韩法德西语，支持复杂的划词操作、网页翻译、生词本、PDF、以及 Vimium 全键盘操作。
 - [Sourcegraph](https://docs.sourcegraph.com/integration/browser_extension)
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器。
   - [用户脚本网站](https://greasyfork.org/zh-CN)
   - [百度网盘直链下载助手](https://github.com/syhyz1990/baiduyun)
-  - [网页限制解除](https://cat7373.github.io/remove-web-limits/)
   - [网页限制解除(改)](https://greasyfork.org/zh-CN/scripts/28497-remove-web-limits-modified)
 - [Vimium](https://vimium.github.io/) - Vimium is a Google Chrome extension which provides keyboard shortcuts for navigation and control in the spirit of the Vim editor.
 
