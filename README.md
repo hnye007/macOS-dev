@@ -12,6 +12,7 @@
 ## Applications
 
 - [Alfred](https://www.alfredapp.com/) - 效率神器
+  
   - [Workflows](http://www.alfredworkflow.com/ "第三方工作流下载网站 @hzlzh")
 - ~~[Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?mt=12)~~ - 防休眠软件
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
@@ -42,6 +43,7 @@
 - [Itsycal](https://www.mowglii.com/itsycal/) - 轻巧的菜单栏日历工具。
 - [iStatistica](https://www.imagetasks.com/system-battery-network-monitor-widget/) - macOS system monitoring widget
 - [iTerm2](https://www.iterm2.com/) - 终端工具
+  
   - [Iterm2-color-schemes](http://iterm2colorschemes.com/)
 - [Infinity Dashboard](https://fiplab.com/apps/infinity-dashboard-for-mac) - Mac 菜单栏工具
 - [坚果云](https://www.jianguoyun.com/ "官网") - 文件同步、备份、共享云存储软件
@@ -57,6 +59,7 @@
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - 一款绘图软件
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - 强大的项目管理软件
 - ~~[Paste](https://pasteapp.me/)~~ - Paste is a smart cloud clipboard history and snippets manager
+  
   > Alfred 也有粘贴板功能，轻量、好用。
 - [PDF Expert](https://pdfexpert.com/zh) - 快速、轻巧、易用的 PDF 编辑器
 - [PicGo](https://molunerfinn.com/PicGo/) - 开源图床工具，图片上传+管理新体验。
@@ -64,11 +67,12 @@
 - [Postman](https://www.getpostman.com/) - The Complete API Development Environment
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE for Professional Developers
 - [Recents](http://recentsapp.com/) - Recents is a file launcher designed for Mac.
+  
   > 可结合 Alfred
 - [Sequel Pro](http://www.sequelpro.com/) - MySQL 数据库管理软件
 - [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件
-- [SourceTree](https://www.sourcetreeapp.com/) - Simplicity and power in a beautiful Git GUI
+- ~~[SourceTree](https://www.sourcetreeapp.com/)~~ - Simplicity and power in a beautiful Git GUI
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Sublime Merge](https://www.sublimemerge.com/) - Git Client
 - [SwitchHosts](https://oldj.github.io/SwitchHosts/#cn) - 一个管理、切换多个 hosts 方案的工具。免费开源软件。
@@ -81,6 +85,7 @@
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/) - remove unwanted packages from your system
 - [uTools](https://u.tools/) - uTools 是一个极简、插件化、跨平台的现代桌面软件。通过自由选配丰富的插件，打造你得心应手的工具集合。
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器
+  
   - 终端下使用`code`命令：运行 VS Code 并打开命令面板（⇧⌘P），然后输入`shell command`找到`Install 'code' command in PATH`。
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer.
 
@@ -114,19 +119,17 @@
 - [unar](https://theunarchiver.com/command-line) - 解压缩命令行工具
   `brew install unar`
 - [vim](http://www.vim.org/)
-  [简单的配置.vimrc 文件](./config/.vimrc)
 - [z](https://github.com/rupa/z) - jump around，类似 autojump，但更好用
 
 ## Browser-Plugins
 
 - [Better OneTab](https://github.com/cnwangjie/better-onetab) - 一个更好的 OneTab 扩展
 - [bilibili helper](https://bilibili-helper.github.io/) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
+- [彩云小译](https://fanyi.caiyunapp.com/#/web) - 双语对照网页翻译
 - [Dadda（达达）](https://github.com/waynecz/dadda-translate-crx) - 漂亮的划词翻译插件 / 让你在 Chrome 上背单词（可同步至扇贝、有道单词）
 - [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
 - [FeHelper](https://github.com/zxlie/FeHelper) - 包含一些前端实用的工具
 - [简阅](http://ksria.com/simpread/) - 让你瞬间进入沉浸式阅读的扩展
-- [简 Tab](http://ksria.com/simptab/) - 极简的 Chrome 新标签页扩展
-- [几枝](https://github.com/unicar9/jizhi) - 支持自定义新标签页的 Chrome 扩展，几枝将在新标签页上展示中国传统色的层叠波浪动画效果搭配经典诗词。
 - [Octotree](https://github.com/ovity/octotree)
 - [Quick QR](https://high-qr-code-generator.com/) - QR Code Generator
 - [沙拉查词](https://saladict.crimx.com) - Saladict 沙拉查词是一款专业划词翻译扩展，为交叉阅读而生。大量权威词典涵盖中英日韩法德西语，支持复杂的划词操作、网页翻译、生词本、PDF、以及 Vimium 全键盘操作。
