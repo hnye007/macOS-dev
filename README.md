@@ -93,6 +93,7 @@
   - [plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins)  
     `plugins=(autojump brew command-not-found encode64 git git-flow jsontools osx urltools wd zsh-syntax-highlighting)`
 - [Prezto](https://github.com/sorin-ionescu/prezto) - zsh 配置框架，比 oh-my-zsh 轻量
+- [pstree](http://www.thp.uni-duisburg.de/pstree/) - It is a small program that shows the ps listing as a tree
 - [tldr](https://tldr.sh/) - Simplified and community-driven man pages
 - [unar](https://theunarchiver.com/command-line) - 解压缩命令行工具
   `brew install unar`
@@ -112,7 +113,6 @@
 - [Quick QR](https://high-qr-code-generator.com/) - QR Code Generator
 - [沙拉查词](https://saladict.crimx.com) - Saladict 沙拉查词是一款专业划词翻译扩展，为交叉阅读而生。大量权威词典涵盖中英日韩法德西语，支持复杂的划词操作、网页翻译、生词本、PDF、以及 Vimium 全键盘操作。
 - [Sourcegraph](https://docs.sourcegraph.com/integration/browser_extension)
-- [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器。
   - [用户脚本网站](https://greasyfork.org/zh-CN)
   - [百度网盘直链下载助手](https://github.com/syhyz1990/baiduyun)
