@@ -77,8 +77,10 @@
 - [ctop](https://ctop.sh/) - concise commandline monitoring for containers
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - diff-so-fancy strives to make your diffs human readable instead of machine readable.（增强 git diff 可读性）
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
+- [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository.
+  `npm install -g doctoc`
 - [Fanyi](https://www.npmjs.com/package/fanyi) - A translate tool in your terminal.
-  `npm install fanyi -g`
+  `npm install -g fanyi`
 - [gitflow-toolkit](https://github.com/mritd/gitflow-toolkit) - 简单的 GitFlow 提交工具，用于规范 git commit 提交格式
 - [gvm](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
 - [Homebrew](https://brew.sh/) - 包管理工具，类似 apt-get、yum
