@@ -127,13 +127,14 @@
 
 ## IDEA-Plugins
 
+- A8Translate
 - Alibaba Java Coding Guidelines
 - Free Mybatis plugin
 - GenerateAllSetter
 - IdeaVim
 - IdeaVimExtension - 为 IdeaVim 插件增加自动切换为英文输入法的功能
 - jclasslib Bytecode viewer - jclasslib is a bytecode viewer for Java class files
-- JRebel for IntelliJ
+- JRebel and XRebel for IntelliJ
 - Key Promoter X - A plugin to learn the IntelliJ IDEA shortcuts.
 - Lombok
 - Maven Helper
