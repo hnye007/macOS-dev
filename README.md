@@ -9,6 +9,7 @@
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - automatically pause your music, set individual apps' volumes and record system audio.
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Open Source SQL Editor and Database Manager
 - [Caffeinated](https://yugen.design/caffeinated/) - 防睡眠应用
 - [Charles](https://www.charlesproxy.com/) - 代理工具
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 实用的快捷键快速提醒工具
@@ -48,6 +49,7 @@
 - [PicGo](https://molunerfinn.com/PicGo/) - 开源图床工具，图片上传+管理新体验。
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac
 - [Postman](https://www.getpostman.com/) - The Complete API Development Environment
+- [Proxyman](https://proxyman.io) - Modern and Delightful Web Debugging Proxy
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE for Professional Developers
 - [Recents](http://recentsapp.com/) - Recents is a file launcher designed for Mac.
   > 可结合 Alfred
@@ -130,6 +132,7 @@
 
 - A8Translate
 - Alibaba Java Coding Guidelines
+- DeepCode
 - Free Mybatis plugin
 - GenerateAllSetter
 - IdeaVim
