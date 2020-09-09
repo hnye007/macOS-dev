@@ -132,6 +132,7 @@
 
 - A8Translate
 - Alibaba Java Coding Guidelines
+- Arthas Hot Swap
 - DeepCode
 - Free Mybatis plugin
 - GenerateAllSetter
