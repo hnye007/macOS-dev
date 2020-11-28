@@ -102,16 +102,20 @@
 - [vim](http://www.vim.org/)
 - [z](https://github.com/rupa/z) - jump around，类似 autojump，但更好用
 
-## Browser-Plugins
+## Chromium-Based-Browser-Plugins
 
+- AdGuard - 广告拦截器
 - [bilibili helper](https://bilibili-helper.github.io/) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [彩云小译](https://fanyi.caiyunapp.com/#/web) - 双语对照网页翻译
+- 潮汐 - 极简番茄钟与白噪音
 - [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
 - [FeHelper](https://github.com/zxlie/FeHelper) - 包含一些前端实用的工具
+- HTTPS Everywhere - 加密网络浏览，自动使用 HTTPS 连接访问站点，更加安全。
 - [简阅](http://ksria.com/simpread/) - 让你瞬间进入沉浸式阅读的扩展
 - [Gitako](https://github.com/EnixCoda/Gitako/) - GitHub 文件树插件
 - [Octotree](https://github.com/ovity/octotree)
 - [Quick QR](https://high-qr-code-generator.com/) - QR Code Generator
+- RSSHub Radar - 帮助你快速发现和订阅当前网站的 RSS 和 RSSHub
 - [沙拉查词](https://saladict.crimx.com) - Saladict 沙拉查词是一款专业划词翻译扩展，为交叉阅读而生。大量权威词典涵盖中英日韩法德西语，支持复杂的划词操作、网页翻译、生词本、PDF、以及 Vimium 全键盘操作。
 - [Sourcegraph](https://docs.sourcegraph.com/integration/browser_extension)
 - [Tampermonkey](https://tampermonkey.net/) - Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器。
@@ -119,6 +123,7 @@
   - [百度网盘直链下载助手](https://github.com/syhyz1990/baiduyun)
   - [网页限制解除(改)](https://greasyfork.org/zh-CN/scripts/28497-remove-web-limits-modified)
 - [Vimium](https://vimium.github.io/) - Vimium is a Google Chrome extension which provides keyboard shortcuts for navigation and control in the spirit of the Vim editor.
+- [自选基金助手](https://rabt.gitee.io/funds/docs/dist/index.html#/Main) - 实时查看基金涨跌幅
 
 ## Editer-Plugins
 
