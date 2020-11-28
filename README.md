@@ -106,7 +106,6 @@
 
 - [bilibili helper](https://bilibili-helper.github.io/) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [彩云小译](https://fanyi.caiyunapp.com/#/web) - 双语对照网页翻译
-- ~~[Dadda（达达）](https://github.com/waynecz/dadda-translate-crx)~~ - 漂亮的划词翻译插件 / 让你在 Chrome 上背单词（可同步至扇贝、有道单词）
 - [ElasticSearch Head](https://github.com/mobz/elasticsearch-head)
 - [FeHelper](https://github.com/zxlie/FeHelper) - 包含一些前端实用的工具
 - [简阅](http://ksria.com/simpread/) - 让你瞬间进入沉浸式阅读的扩展
@@ -132,9 +131,8 @@
 
 - A8Translate
 - Alibaba Java Coding Guidelines
-- Arthas Hot Swap
+- arthas idea
 - CSV Plugin
-- DeepCode
 - Free Mybatis plugin
 - GenerateAllSetter
 - IdeaVim
@@ -146,5 +144,6 @@
 - Maven Helper
 - MyBatis Log Plugin - 把 mybatis 输出的 sql 日志还原成完整的sql语句
 - Rainbow Brackets
+- SpotBugs
 
 ## Tips
